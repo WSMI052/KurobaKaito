@@ -1,11 +1,3113 @@
 {
-  "henribredt/E-Piano-WWDC23": {
-    "url": "https://github.com/henribredt/E-Piano-WWDC23"
+  "VirgilClyne/iRingo": {
+    "url": "https://github.com/VirgilClyne/iRingo"
   },
-  "rweichler/cylinder": {
-    "url": "https://github.com/rweichler/cylinder"
+  "X1a0He/Adobe-Downloader": {
+    "url": "https://github.com/X1a0He/Adobe-Downloader"
   },
-  "akemin-dayo/simject": {
-    "url": "https://github.com/akemin-dayo/simject"
+  "Abdenasser/neohtop": {
+    "url": "https://github.com/Abdenasser/neohtop"
+  },
+  "straight-tamago/misakaX": {
+    "url": "https://github.com/straight-tamago/misakaX"
+  },
+  "amir1376/ab-download-manager": {
+    "url": "https://github.com/amir1376/ab-download-manager"
+  },
+  "max32002/interpark_bot": {
+    "url": "https://github.com/max32002/interpark_bot"
+  },
+  "c00kie17/liquipediapy": {
+    "url": "https://github.com/c00kie17/liquipediapy"
+  },
+  "dayanch96/InfusePlus": {
+    "url": "https://github.com/dayanch96/InfusePlus"
+  },
+  "buresdv/Cork": {
+    "url": "https://github.com/buresdv/Cork"
+  },
+  "Drovosek01/adobe-packager": {
+    "url": "https://github.com/Drovosek01/adobe-packager"
+  },
+  "github/CopilotForXcode": {
+    "url": "https://github.com/github/CopilotForXcode"
+  },
+  "missuo/resign": {
+    "url": "https://github.com/missuo/resign"
+  },
+  "Hammerspoon/hammerspoon": {
+    "url": "https://github.com/Hammerspoon/hammerspoon"
+  },
+  "jordansissel/xdotool": {
+    "url": "https://github.com/jordansissel/xdotool"
+  },
+  "DeepSeaTeam/DamaiHelper": {
+    "url": "https://github.com/DeepSeaTeam/DamaiHelper"
+  },
+  "Guyungy/damaihelper": {
+    "url": "https://github.com/Guyungy/damaihelper"
+  },
+  "RookieTree/DaMaiHelper": {
+    "url": "https://github.com/RookieTree/DaMaiHelper"
+  },
+  "lich4/ChargeLimiter": {
+    "url": "https://github.com/lich4/ChargeLimiter"
+  },
+  "pwnless/AutoFLEX": {
+    "url": "https://github.com/pwnless/AutoFLEX"
+  },
+  "Neoncat-OG/TrollStore-IPAs": {
+    "url": "https://github.com/Neoncat-OG/TrollStore-IPAs"
+  },
+  "Pactum7/ticket-grabbing": {
+    "url": "https://github.com/Pactum7/ticket-grabbing"
+  },
+  "malaohu/forsaken-mail": {
+    "url": "https://github.com/malaohu/forsaken-mail"
+  },
+  "vgrem/Office365-REST-Python-Client": {
+    "url": "https://github.com/vgrem/Office365-REST-Python-Client"
+  },
+  "usual2970/certimate": {
+    "url": "https://github.com/usual2970/certimate"
+  },
+  "Apocalypsor/dujiaoka-docker": {
+    "url": "https://github.com/Apocalypsor/dujiaoka-docker"
+  },
+  "assimon/epusdt": {
+    "url": "https://github.com/assimon/epusdt"
+  },
+  "jasonwu1994/lol-auto-accept": {
+    "url": "https://github.com/jasonwu1994/lol-auto-accept"
+  },
+  "v03413/bepusdt": {
+    "url": "https://github.com/v03413/bepusdt"
+  },
+  "sky22333/acg-faka": {
+    "url": "https://github.com/sky22333/acg-faka"
+  },
+  "luochuanyuewu/acg-faka-docker": {
+    "url": "https://github.com/luochuanyuewu/acg-faka-docker"
+  },
+  "wendux/flutter_in_action_2": {
+    "url": "https://github.com/wendux/flutter_in_action_2"
+  },
+  "Whisky-App/Whisky": {
+    "url": "https://github.com/Whisky-App/Whisky"
+  },
+  "AugustDev/enchanted": {
+    "url": "https://github.com/AugustDev/enchanted"
+  },
+  "ollama/ollama": {
+    "url": "https://github.com/ollama/ollama"
+  },
+  "max32002/joint_bot": {
+    "url": "https://github.com/max32002/joint_bot"
+  },
+  "ArtSabintsev/Siren": {
+    "url": "https://github.com/ArtSabintsev/Siren"
+  },
+  "Tai7sy/card-system": {
+    "url": "https://github.com/Tai7sy/card-system"
+  },
+  "lizhipay/acg-faka": {
+    "url": "https://github.com/lizhipay/acg-faka"
+  },
+  "dlzmoe/linuxdo-scripts": {
+    "url": "https://github.com/dlzmoe/linuxdo-scripts"
+  },
+  "Wox-launcher/Wox": {
+    "url": "https://github.com/Wox-launcher/Wox"
+  },
+  "haoict/pdf-resizer-python": {
+    "url": "https://github.com/haoict/pdf-resizer-python"
+  },
+  "smicallef/spiderfoot": {
+    "url": "https://github.com/smicallef/spiderfoot"
+  },
+  "SoCuul/SCInsta": {
+    "url": "https://github.com/SoCuul/SCInsta"
+  },
+  "mac-cleanup/mac-cleanup-py": {
+    "url": "https://github.com/mac-cleanup/mac-cleanup-py"
+  },
+  "LekoArts/gatsby-starter-portfolio-emilia": {
+    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia"
+  },
+  "JoaoFranco03/photography-portfolio": {
+    "url": "https://github.com/JoaoFranco03/photography-portfolio"
+  },
+  "eythaann/Seelen-UI": {
+    "url": "https://github.com/eythaann/Seelen-UI"
+  },
+  "netdcy/FlowVision": {
+    "url": "https://github.com/netdcy/FlowVision"
+  },
+  "raj457036/copycat_clipboard": {
+    "url": "https://github.com/raj457036/copycat_clipboard"
+  },
+  "flytkgl/PDFQFZ": {
+    "url": "https://github.com/flytkgl/PDFQFZ"
+  },
+  "aceberg/WatchYourLAN": {
+    "url": "https://github.com/aceberg/WatchYourLAN"
+  },
+  "pal03377/ClipboardPortal": {
+    "url": "https://github.com/pal03377/ClipboardPortal"
+  },
+  "ufukbakan/BlitzAutoKiller": {
+    "url": "https://github.com/ufukbakan/BlitzAutoKiller"
+  },
+  "scriptscat/scriptcat": {
+    "url": "https://github.com/scriptscat/scriptcat"
+  },
+  "alienator88/Pearcleaner": {
+    "url": "https://github.com/alienator88/Pearcleaner"
+  },
+  "stonith404/pingvin-share": {
+    "url": "https://github.com/stonith404/pingvin-share"
+  },
+  "mrpond/BlockTheSpot": {
+    "url": "https://github.com/mrpond/BlockTheSpot"
+  },
+  "FluxionNetwork/fluxion": {
+    "url": "https://github.com/FluxionNetwork/fluxion"
+  },
+  "wozulong/fuclaude": {
+    "url": "https://github.com/wozulong/fuclaude"
+  },
+  "OwnGoalStudio/Asspp": {
+    "url": "https://github.com/OwnGoalStudio/Asspp"
+  },
+  "super-tongyao/wall": {
+    "url": "https://github.com/super-tongyao/wall"
+  },
+  "vale21/mac-mulator": {
+    "url": "https://github.com/vale21/mac-mulator"
+  },
+  "bogo/arm64-to-sim": {
+    "url": "https://github.com/bogo/arm64-to-sim"
+  },
+  "QiuChenly/InjectLib": {
+    "url": "https://github.com/QiuChenly/InjectLib"
+  },
+  "rustdesk/rustdesk": {
+    "url": "https://github.com/rustdesk/rustdesk"
+  },
+  "fmhy/edit": {
+    "url": "https://github.com/fmhy/edit"
+  },
+  "foamzou/melody": {
+    "url": "https://github.com/foamzou/melody"
+  },
+  "Raphire/Win11Debloat": {
+    "url": "https://github.com/Raphire/Win11Debloat"
+  },
+  "dwarvesf/hidden": {
+    "url": "https://github.com/dwarvesf/hidden"
+  },
+  "whoeevee/EeveeSpotify": {
+    "url": "https://github.com/whoeevee/EeveeSpotify"
+  },
+  "herrbischoff/awesome-command-line-apps": {
+    "url": "https://github.com/herrbischoff/awesome-command-line-apps"
+  },
+  "jordanbaird/Ice": {
+    "url": "https://github.com/jordanbaird/Ice"
+  },
+  "Yooooomi/your_spotify": {
+    "url": "https://github.com/Yooooomi/your_spotify"
+  },
+  "R3nzTheCodeGOD/R3nzSkin": {
+    "url": "https://github.com/R3nzTheCodeGOD/R3nzSkin"
+  },
+  "bpc-clone/bypass-paywalls-chrome-clean": {
+    "url": "https://github.com/bpc-clone/bypass-paywalls-chrome-clean"
+  },
+  "fastfetch-cli/fastfetch": {
+    "url": "https://github.com/fastfetch-cli/fastfetch"
+  },
+  "pqrs-org/Karabiner-Elements": {
+    "url": "https://github.com/pqrs-org/Karabiner-Elements"
+  },
+  "FelixKratz/SketchyBar": {
+    "url": "https://github.com/FelixKratz/SketchyBar"
+  },
+  "waydabber/BetterDisplay": {
+    "url": "https://github.com/waydabber/BetterDisplay"
+  },
+  "AppFlowy-IO/AppFlowy": {
+    "url": "https://github.com/AppFlowy-IO/AppFlowy"
+  },
+  "trustwallet/wallet-core": {
+    "url": "https://github.com/trustwallet/wallet-core"
+  },
+  "MLSDev/TRON": {
+    "url": "https://github.com/MLSDev/TRON"
+  },
+  "Boris-Em/BEMCheckBox": {
+    "url": "https://github.com/Boris-Em/BEMCheckBox"
+  },
+  "james19870606/TronWeb": {
+    "url": "https://github.com/james19870606/TronWeb"
+  },
+  "sh-khashimov/SwiftFortuneWheel": {
+    "url": "https://github.com/sh-khashimov/SwiftFortuneWheel"
+  },
+  "balena-io/etcher": {
+    "url": "https://github.com/balena-io/etcher"
+  },
+  "SpotCompiled/SpotC-Plus-Plus": {
+    "url": "https://github.com/SpotCompiled/SpotC-Plus-Plus"
+  },
+  "misskey-dev/misskey": {
+    "url": "https://github.com/misskey-dev/misskey"
+  },
+  "Aloxaf/fzf-tab": {
+    "url": "https://github.com/Aloxaf/fzf-tab"
+  },
+  "tihmstar/futurerestore": {
+    "url": "https://github.com/tihmstar/futurerestore"
+  },
+  "futurerestore/futurerestore": {
+    "url": "https://github.com/futurerestore/futurerestore"
+  },
+  "Nuzair46/BlockTheSpot-Mac": {
+    "url": "https://github.com/Nuzair46/BlockTheSpot-Mac"
+  },
+  "Wooder/ios_17_required_reason_api_scanner": {
+    "url": "https://github.com/Wooder/ios_17_required_reason_api_scanner"
+  },
+  "kimbely0320/update_privacy_info.py": {
+    "url": "https://github.com/kimbely0320/update_privacy_info.py"
+  },
+  "TapPay/tappay-ios-example": {
+    "url": "https://github.com/TapPay/tappay-ios-example"
+  },
+  "danielsaidi/ScrollKit": {
+    "url": "https://github.com/danielsaidi/ScrollKit"
+  },
+  "spiritLHLS/Oracle-server-keep-alive-script": {
+    "url": "https://github.com/spiritLHLS/Oracle-server-keep-alive-script"
+  },
+  "DebugSwift/DebugSwift": {
+    "url": "https://github.com/DebugSwift/DebugSwift"
+  },
+  "nilotic/MapViewTest": {
+    "url": "https://github.com/nilotic/MapViewTest"
+  },
+  "sparrowcode/AlertKit": {
+    "url": "https://github.com/sparrowcode/AlertKit"
+  },
+  "BenEmdon/CenteredCollectionView": {
+    "url": "https://github.com/BenEmdon/CenteredCollectionView"
+  },
+  "FluidGroup/NextGrowingTextView": {
+    "url": "https://github.com/FluidGroup/NextGrowingTextView"
+  },
+  "seasonZhu/RxStudy": {
+    "url": "https://github.com/seasonZhu/RxStudy"
+  },
+  "akamai/cli-eaa": {
+    "url": "https://github.com/akamai/cli-eaa"
+  },
+  "raykle/XcodeSnippets": {
+    "url": "https://github.com/raykle/XcodeSnippets"
+  },
+  "ddh4r4m/XcodeTheme": {
+    "url": "https://github.com/ddh4r4m/XcodeTheme"
+  },
+  "thedevs-network/kutt": {
+    "url": "https://github.com/thedevs-network/kutt"
+  },
+  "MarioIannotta/PullUpController": {
+    "url": "https://github.com/MarioIannotta/PullUpController"
+  },
+  "efremidze/Cluster": {
+    "url": "https://github.com/efremidze/Cluster"
+  },
+  "abdullahselek/ASMapLauncher": {
+    "url": "https://github.com/abdullahselek/ASMapLauncher"
+  },
+  "hussc/PTCardTabBar": {
+    "url": "https://github.com/hussc/PTCardTabBar"
+  },
+  "onmyway133/EasyStash": {
+    "url": "https://github.com/onmyway133/EasyStash"
+  },
+  "mezhevikin/AppReview": {
+    "url": "https://github.com/mezhevikin/AppReview"
+  },
+  "ZhgChgLi/ZMarkupParser": {
+    "url": "https://github.com/ZhgChgLi/ZMarkupParser"
+  },
+  "QuickBirdEng/XCoordinator": {
+    "url": "https://github.com/QuickBirdEng/XCoordinator"
+  },
+  "barry-ran/QtScrcpy": {
+    "url": "https://github.com/barry-ran/QtScrcpy"
+  },
+  "jhurray/Transform.swift": {
+    "url": "https://github.com/jhurray/Transform.swift"
+  },
+  "Lakr233/Firework": {
+    "url": "https://github.com/Lakr233/Firework"
+  },
+  "Lakr233/FixTim": {
+    "url": "https://github.com/Lakr233/FixTim"
+  },
+  "takecian/SwiftRater": {
+    "url": "https://github.com/takecian/SwiftRater"
+  },
+  "ampirator/EANBarcodeGenerator": {
+    "url": "https://github.com/ampirator/EANBarcodeGenerator"
+  },
+  "rickwierenga/heartbeat-tutorials": {
+    "url": "https://github.com/rickwierenga/heartbeat-tutorials"
+  },
+  "miticollo/frida-ios-dump": {
+    "url": "https://github.com/miticollo/frida-ios-dump"
+  },
+  "chongzone/KeenExtension": {
+    "url": "https://github.com/chongzone/KeenExtension"
+  },
+  "Coledunsby/CDCodabarView": {
+    "url": "https://github.com/Coledunsby/CDCodabarView"
+  },
+  "kyleduo/TinyPNG4Mac": {
+    "url": "https://github.com/kyleduo/TinyPNG4Mac"
+  },
+  "inket/MacSymbolicator": {
+    "url": "https://github.com/inket/MacSymbolicator"
+  },
+  "cokemine/ServerStatus-Hotaru": {
+    "url": "https://github.com/cokemine/ServerStatus-Hotaru"
+  },
+  "simibac/ConfettiSwiftUI": {
+    "url": "https://github.com/simibac/ConfettiSwiftUI"
+  },
+  "lucaszischka/BottomSheet": {
+    "url": "https://github.com/lucaszischka/BottomSheet"
+  },
+  "AndreaMiotto/PartialSheet": {
+    "url": "https://github.com/AndreaMiotto/PartialSheet"
+  },
+  "stevencurtis/SwiftCoding": {
+    "url": "https://github.com/stevencurtis/SwiftCoding"
+  },
+  "raphamorim/lucario": {
+    "url": "https://github.com/raphamorim/lucario"
+  },
+  "TKkk-iOSer/WeChatPlugin-MacOS": {
+    "url": "https://github.com/TKkk-iOSer/WeChatPlugin-MacOS"
+  },
+  "fayazara/onelink": {
+    "url": "https://github.com/fayazara/onelink"
+  },
+  "bannzai/Gedatsu": {
+    "url": "https://github.com/bannzai/Gedatsu"
+  },
+  "joomcode/BottomSheet": {
+    "url": "https://github.com/joomcode/BottomSheet"
+  },
+  "scenee/FloatingPanel": {
+    "url": "https://github.com/scenee/FloatingPanel"
+  },
+  "rsrbk/SRCountdownTimer": {
+    "url": "https://github.com/rsrbk/SRCountdownTimer"
+  },
+  "p-x9/ShowTouch": {
+    "url": "https://github.com/p-x9/ShowTouch"
+  },
+  "gioxx/MarvellousSuspender": {
+    "url": "https://github.com/gioxx/MarvellousSuspender"
+  },
+  "m4fn3/k2ge3-trollstore": {
+    "url": "https://github.com/m4fn3/k2ge3-trollstore"
+  },
+  "freshOS/Networking": {
+    "url": "https://github.com/freshOS/Networking"
+  },
+  "Genymobile/scrcpy": {
+    "url": "https://github.com/Genymobile/scrcpy"
+  },
+  "chamburr/glance": {
+    "url": "https://github.com/chamburr/glance"
+  },
+  "yoshiysh/adaptive-modal": {
+    "url": "https://github.com/yoshiysh/adaptive-modal"
+  },
+  "urlaunched-com/MFNavigationBarAppearing": {
+    "url": "https://github.com/urlaunched-com/MFNavigationBarAppearing"
+  },
+  "MaximeFILIPPI/SnapPagerCarousel": {
+    "url": "https://github.com/MaximeFILIPPI/SnapPagerCarousel"
+  },
+  "workos/authkit": {
+    "url": "https://github.com/workos/authkit"
+  },
+  "akxo/paging-collection-view-layout": {
+    "url": "https://github.com/akxo/paging-collection-view-layout"
+  },
+  "wh1te4ever/TrollDecryptor": {
+    "url": "https://github.com/wh1te4ever/TrollDecryptor"
+  },
+  "assimon/dujiaoka": {
+    "url": "https://github.com/assimon/dujiaoka"
+  },
+  "jamin98/supersign": {
+    "url": "https://github.com/jamin98/supersign"
+  },
+  "Aefyr/SAI": {
+    "url": "https://github.com/Aefyr/SAI"
+  },
+  "masamichiueta/FluidPhoto": {
+    "url": "https://github.com/masamichiueta/FluidPhoto"
+  },
+  "THUDM/ChatGLM3": {
+    "url": "https://github.com/THUDM/ChatGLM3"
+  },
+  "Netskao/MacOS-Utils": {
+    "url": "https://github.com/Netskao/MacOS-Utils"
+  },
+  "Team-LionHeart/LionHeart-iOS": {
+    "url": "https://github.com/Team-LionHeart/LionHeart-iOS"
+  },
+  "zlypher/lol-events": {
+    "url": "https://github.com/zlypher/lol-events"
+  },
+  "cezarcp/swipe-tab-bar": {
+    "url": "https://github.com/cezarcp/swipe-tab-bar"
+  },
+  "roothide/FairFree": {
+    "url": "https://github.com/roothide/FairFree"
+  },
+  "spacedriveapp/spacedrive": {
+    "url": "https://github.com/spacedriveapp/spacedrive"
+  },
+  "paradiseduo/Converter": {
+    "url": "https://github.com/paradiseduo/Converter"
+  },
+  "DigiDNA/Silicon": {
+    "url": "https://github.com/DigiDNA/Silicon"
+  },
+  "SwifterSwift/SwifterSwift": {
+    "url": "https://github.com/SwifterSwift/SwifterSwift"
+  },
+  "aryamansharda/EditKitPro": {
+    "url": "https://github.com/aryamansharda/EditKitPro"
+  },
+  "applidium/OverlayContainer": {
+    "url": "https://github.com/applidium/OverlayContainer"
+  },
+  "GopeedLab/gopeed": {
+    "url": "https://github.com/GopeedLab/gopeed"
+  },
+  "devxoul/URLNavigator": {
+    "url": "https://github.com/devxoul/URLNavigator"
+  },
+  "slackhq/PanModal": {
+    "url": "https://github.com/slackhq/PanModal"
+  },
+  "Daltron/NotificationBanner": {
+    "url": "https://github.com/Daltron/NotificationBanner"
+  },
+  "unixzii/ibackupextractor": {
+    "url": "https://github.com/unixzii/ibackupextractor"
+  },
+  "tristanhimmelman/ObjectMapper": {
+    "url": "https://github.com/tristanhimmelman/ObjectMapper"
+  },
+  "BastiaanJansen/toast-swift": {
+    "url": "https://github.com/BastiaanJansen/toast-swift"
+  },
+  "ivanvorobei/SPIndicator": {
+    "url": "https://github.com/ivanvorobei/SPIndicator"
+  },
+  "dubinc/dub": {
+    "url": "https://github.com/dubinc/dub"
+  },
+  "cometchat/cometchat-uikit-ios": {
+    "url": "https://github.com/cometchat/cometchat-uikit-ios"
+  },
+  "CreatureSurvive/Arctic-Issues": {
+    "url": "https://github.com/CreatureSurvive/Arctic-Issues"
+  },
+  "QuickBirdEng/CombineRxSwiftPerformance": {
+    "url": "https://github.com/QuickBirdEng/CombineRxSwiftPerformance"
+  },
+  "Kyome22/KeyboardExtensionKit": {
+    "url": "https://github.com/Kyome22/KeyboardExtensionKit"
+  },
+  "zhengwenming/WMDragView": {
+    "url": "https://github.com/zhengwenming/WMDragView"
+  },
+  "SilverFruity/OCRunner": {
+    "url": "https://github.com/SilverFruity/OCRunner"
+  },
+  "Sunlitt/SunKit": {
+    "url": "https://github.com/Sunlitt/SunKit"
+  },
+  "gewill/ConnectUI": {
+    "url": "https://github.com/gewill/ConnectUI"
+  },
+  "TopWidgets/SwingAnimation": {
+    "url": "https://github.com/TopWidgets/SwingAnimation"
+  },
+  "Lakr233/BBackupp": {
+    "url": "https://github.com/Lakr233/BBackupp"
+  },
+  "devwaseem/TempBox": {
+    "url": "https://github.com/devwaseem/TempBox"
+  },
+  "AbdelrhmanKamalEliwa/AEOTPTextField": {
+    "url": "https://github.com/AbdelrhmanKamalEliwa/AEOTPTextField"
+  },
+  "moliya/EasyListView": {
+    "url": "https://github.com/moliya/EasyListView"
+  },
+  "PeterL1n/RobustVideoMatting": {
+    "url": "https://github.com/PeterL1n/RobustVideoMatting"
+  },
+  "bbaars/UIImageAverageColor": {
+    "url": "https://github.com/bbaars/UIImageAverageColor"
+  },
+  "cruisediary/Pastel": {
+    "url": "https://github.com/cruisediary/Pastel"
+  },
+  "s0md3v/roop": {
+    "url": "https://github.com/s0md3v/roop"
+  },
+  "shima11/FlexiblePageControl": {
+    "url": "https://github.com/shima11/FlexiblePageControl"
+  },
+  "MAJKFL/Welcome-Sheet": {
+    "url": "https://github.com/MAJKFL/Welcome-Sheet"
+  },
+  "SmileZXLee/IpaDownloadTool": {
+    "url": "https://github.com/SmileZXLee/IpaDownloadTool"
+  },
+  "fengmingdev/RichLabel": {
+    "url": "https://github.com/fengmingdev/RichLabel"
+  },
+  "SiongSng/figma-taiwan-translation": {
+    "url": "https://github.com/SiongSng/figma-taiwan-translation"
+  },
+  "mazzzystar/Queryable": {
+    "url": "https://github.com/mazzzystar/Queryable"
+  },
+  "orsifrancesco/instagram-without-api": {
+    "url": "https://github.com/orsifrancesco/instagram-without-api"
+  },
+  "postaddictme/instagram-php-scraper": {
+    "url": "https://github.com/postaddictme/instagram-php-scraper"
+  },
+  "jlobos/instagram-web-api": {
+    "url": "https://github.com/jlobos/instagram-web-api"
+  },
+  "ios-control/ios-deploy": {
+    "url": "https://github.com/ios-control/ios-deploy"
+  },
+  "DanTheMan827/ios-app-signer": {
+    "url": "https://github.com/DanTheMan827/ios-app-signer"
+  },
+  "KyoheiG3/GridView": {
+    "url": "https://github.com/KyoheiG3/GridView"
+  },
+  "WXRIW/Lyricify-App": {
+    "url": "https://github.com/WXRIW/Lyricify-App"
+  },
+  "optonaut/ActiveLabel.swift": {
+    "url": "https://github.com/optonaut/ActiveLabel.swift"
+  },
+  "tlyu0419/facebook_crawler": {
+    "url": "https://github.com/tlyu0419/facebook_crawler"
+  },
+  "GyulyVGC/sniffnet": {
+    "url": "https://github.com/GyulyVGC/sniffnet"
+  },
+  "docker-library/ghost": {
+    "url": "https://github.com/docker-library/ghost"
+  },
+  "getgrav/grav": {
+    "url": "https://github.com/getgrav/grav"
+  },
+  "nathantannar4/InputBarAccessoryView": {
+    "url": "https://github.com/nathantannar4/InputBarAccessoryView"
+  },
+  "PrivateBin/PrivateBin": {
+    "url": "https://github.com/PrivateBin/PrivateBin"
+  },
+  "gmarm/BetterSegmentedControl": {
+    "url": "https://github.com/gmarm/BetterSegmentedControl"
+  },
+  "DeveloperLx/macOS_Development_Tutorials_translation": {
+    "url": "https://github.com/DeveloperLx/macOS_Development_Tutorials_translation"
+  },
+  "floyd-li/hugo-theme-itheme": {
+    "url": "https://github.com/floyd-li/hugo-theme-itheme"
+  },
+  "opa334/Dopamine": {
+    "url": "https://github.com/opa334/Dopamine"
+  },
+  "Mereithhh/vanblog": {
+    "url": "https://github.com/Mereithhh/vanblog"
+  },
+  "excalidraw/excalidraw-room": {
+    "url": "https://github.com/excalidraw/excalidraw-room"
+  },
+  "excalidraw/excalidraw": {
+    "url": "https://github.com/excalidraw/excalidraw"
+  },
+  "vicalloy/outline-docker-compose": {
+    "url": "https://github.com/vicalloy/outline-docker-compose"
+  },
+  "JessThrysoee/synology-letsencrypt": {
+    "url": "https://github.com/JessThrysoee/synology-letsencrypt"
+  },
+  "rastaman111/TagsFlowLayout": {
+    "url": "https://github.com/rastaman111/TagsFlowLayout"
+  },
+  "FindTown/FindTown-iOS": {
+    "url": "https://github.com/FindTown/FindTown-iOS"
+  },
+  "gpt-engineer-org/gpt-engineer": {
+    "url": "https://github.com/gpt-engineer-org/gpt-engineer"
+  },
+  "jtrivedi/Wave": {
+    "url": "https://github.com/jtrivedi/Wave"
+  },
+  "passbolt/passbolt_docker": {
+    "url": "https://github.com/passbolt/passbolt_docker"
+  },
+  "SwiftFiddle/swift-ast-explorer": {
+    "url": "https://github.com/SwiftFiddle/swift-ast-explorer"
+  },
+  "objective-see/OverSight": {
+    "url": "https://github.com/objective-see/OverSight"
+  },
+  "gordontucker/FittedSheets": {
+    "url": "https://github.com/gordontucker/FittedSheets"
+  },
+  "chen-tf/TWBuyer-Chrome-Extension": {
+    "url": "https://github.com/chen-tf/TWBuyer-Chrome-Extension"
+  },
+  "xmartlabs/PagerTabStripView": {
+    "url": "https://github.com/xmartlabs/PagerTabStripView"
+  },
+  "husan42/PChome-alertor": {
+    "url": "https://github.com/husan42/PChome-alertor"
+  },
+  "sopt-makers/SOPT-iOS": {
+    "url": "https://github.com/sopt-makers/SOPT-iOS"
+  },
+  "yushuyi/KeyboardTextField": {
+    "url": "https://github.com/yushuyi/KeyboardTextField"
+  },
+  "thang-nm/CustomizedSearchBar": {
+    "url": "https://github.com/thang-nm/CustomizedSearchBar"
+  },
+  "ninxsoft/Mist": {
+    "url": "https://github.com/ninxsoft/Mist"
+  },
+  "ctreffs/xcode-defaults": {
+    "url": "https://github.com/ctreffs/xcode-defaults"
+  },
+  "ngochiencse/HPParallaxHeader": {
+    "url": "https://github.com/ngochiencse/HPParallaxHeader"
+  },
+  "apple/ml-stable-diffusion": {
+    "url": "https://github.com/apple/ml-stable-diffusion"
+  },
+  "AUTOMATIC1111/stable-diffusion-webui": {
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+  },
+  "alfred-workflows/awesome-alfred-workflows": {
+    "url": "https://github.com/alfred-workflows/awesome-alfred-workflows"
+  },
+  "ddddxxx/SwiftyOpenCC": {
+    "url": "https://github.com/ddddxxx/SwiftyOpenCC"
+  },
+  "LeoMobileDeveloper/ios-developer-tools": {
+    "url": "https://github.com/LeoMobileDeveloper/ios-developer-tools"
+  },
+  "Loafjet/Loafjet": {
+    "url": "https://github.com/Loafjet/Loafjet"
+  },
+  "Lissy93/AdGuardian-Term": {
+    "url": "https://github.com/Lissy93/AdGuardian-Term"
+  },
+  "makeplane/plane": {
+    "url": "https://github.com/makeplane/plane"
+  },
+  "fzf404/Monit": {
+    "url": "https://github.com/fzf404/Monit"
+  },
+  "kharrison/ScaledFont": {
+    "url": "https://github.com/kharrison/ScaledFont"
+  },
+  "Caleb9/synology-photos-slideshow": {
+    "url": "https://github.com/Caleb9/synology-photos-slideshow"
+  },
+  "Runnect/Runnect-iOS": {
+    "url": "https://github.com/Runnect/Runnect-iOS"
+  },
+  "JasonLiTW/simple-railway-captcha-solver": {
+    "url": "https://github.com/JasonLiTW/simple-railway-captcha-solver"
+  },
+  "sml2h3/ddddocr": {
+    "url": "https://github.com/sml2h3/ddddocr"
+  },
+  "haxi0/Derootifier": {
+    "url": "https://github.com/haxi0/Derootifier"
+  },
+  "AnanthVivekanand/spotify-adblock": {
+    "url": "https://github.com/AnanthVivekanand/spotify-adblock"
+  },
+  "DevYeom/OneWay": {
+    "url": "https://github.com/DevYeom/OneWay"
+  },
+  "LeEnno/alfred-terminalfinder": {
+    "url": "https://github.com/LeEnno/alfred-terminalfinder"
+  },
+  "facebook/react-native": {
+    "url": "https://github.com/facebook/react-native"
+  },
+  "Significant-Gravitas/AutoGPT": {
+    "url": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  "intitni/CopilotForXcode": {
+    "url": "https://github.com/intitni/CopilotForXcode"
+  },
+  "ripperhe/Bob": {
+    "url": "https://github.com/ripperhe/Bob"
+  },
+  "pplulee/appleid_auto": {
+    "url": "https://github.com/pplulee/appleid_auto"
+  },
+  "MochiDiffusion/MochiDiffusion": {
+    "url": "https://github.com/MochiDiffusion/MochiDiffusion"
+  },
+  "dsync5566/tixCraftSupport": {
+    "url": "https://github.com/dsync5566/tixCraftSupport"
+  },
+  "KeyboardKit/KeyboardKitPro": {
+    "url": "https://github.com/KeyboardKit/KeyboardKitPro"
+  },
+  "alanhe421/alfred-workflows": {
+    "url": "https://github.com/alanhe421/alfred-workflows"
+  },
+  "gonzalonunez/docc-gpt": {
+    "url": "https://github.com/gonzalonunez/docc-gpt"
+  },
+  "TheExplainthis/AI-Products-All-In-One": {
+    "url": "https://github.com/TheExplainthis/AI-Products-All-In-One"
+  },
+  "adlered/CSDNGreener": {
+    "url": "https://github.com/adlered/CSDNGreener"
+  },
+  "devxoul/Toaster": {
+    "url": "https://github.com/devxoul/Toaster"
+  },
+  "w-hehe/hmyk": {
+    "url": "https://github.com/w-hehe/hmyk"
+  },
+  "bhattsameer/Bombers": {
+    "url": "https://github.com/bhattsameer/Bombers"
+  },
+  "JinjunHan/iOSDeviceSupport": {
+    "url": "https://github.com/JinjunHan/iOSDeviceSupport"
+  },
+  "orbstack/orbstack": {
+    "url": "https://github.com/orbstack/orbstack"
+  },
+  "JanDeDobbeleer/oh-my-posh": {
+    "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+  },
+  "kean/PulsePro": {
+    "url": "https://github.com/kean/PulsePro"
+  },
+  "devMEremenko/XcodeBenchmark": {
+    "url": "https://github.com/devMEremenko/XcodeBenchmark"
+  },
+  "claudiaeng/FloatingTabBar": {
+    "url": "https://github.com/claudiaeng/FloatingTabBar"
+  },
+  "openai-translator/bob-plugin-openai-translator": {
+    "url": "https://github.com/openai-translator/bob-plugin-openai-translator"
+  },
+  "doggy8088/bilingual_book_maker": {
+    "url": "https://github.com/doggy8088/bilingual_book_maker"
+  },
+  "CompVis/stable-diffusion": {
+    "url": "https://github.com/CompVis/stable-diffusion"
+  },
+  "hirakujira/ChatGPT-Grammar-Check-PopClip-Extension": {
+    "url": "https://github.com/hirakujira/ChatGPT-Grammar-Check-PopClip-Extension"
+  },
+  "LeonardoCardoso/SwiftLinkPreview": {
+    "url": "https://github.com/LeonardoCardoso/SwiftLinkPreview"
+  },
+  "OfTheWolf/UBottomSheet": {
+    "url": "https://github.com/OfTheWolf/UBottomSheet"
+  },
+  "mercari/ShimmerView": {
+    "url": "https://github.com/mercari/ShimmerView"
+  },
+  "funzin/ViewGenerator": {
+    "url": "https://github.com/funzin/ViewGenerator"
+  },
+  "plasticrake/homebridge-tplink-smarthome": {
+    "url": "https://github.com/plasticrake/homebridge-tplink-smarthome"
+  },
+  "apatsufas/homebridge-tapo-p100": {
+    "url": "https://github.com/apatsufas/homebridge-tapo-p100"
+  },
+  "Anjok07/ultimatevocalremovergui": {
+    "url": "https://github.com/Anjok07/ultimatevocalremovergui"
+  },
+  "mastodon/mastodon": {
+    "url": "https://github.com/mastodon/mastodon"
+  },
+  "TStrawberry/RxElegantReuse": {
+    "url": "https://github.com/TStrawberry/RxElegantReuse"
+  },
+  "traderepublic/Cilicon": {
+    "url": "https://github.com/traderepublic/Cilicon"
+  },
+  "yonaskolb/Mint": {
+    "url": "https://github.com/yonaskolb/Mint"
+  },
+  "yagiz/Bagel": {
+    "url": "https://github.com/yagiz/Bagel"
+  },
+  "fxm90/GradientProgressBar": {
+    "url": "https://github.com/fxm90/GradientProgressBar"
+  },
+  "localsend/localsend": {
+    "url": "https://github.com/localsend/localsend"
+  },
+  "Fawxy/CBPinEntryView": {
+    "url": "https://github.com/Fawxy/CBPinEntryView"
+  },
+  "pro648/BasicDemos-iOS": {
+    "url": "https://github.com/pro648/BasicDemos-iOS"
+  },
+  "pro648/tips": {
+    "url": "https://github.com/pro648/tips"
+  },
+  "Nonchalant/AppIcon": {
+    "url": "https://github.com/Nonchalant/AppIcon"
+  },
+  "YOURLS/YOURLS": {
+    "url": "https://github.com/YOURLS/YOURLS"
+  },
+  "IcaliaLabs/Presentr": {
+    "url": "https://github.com/IcaliaLabs/Presentr"
+  },
+  "Faceunity/FULiveDemo": {
+    "url": "https://github.com/Faceunity/FULiveDemo"
+  },
+  "File-New-Project/EarTrumpet": {
+    "url": "https://github.com/File-New-Project/EarTrumpet"
+  },
+  "MustangYM/WeChatExtension-ForMac": {
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac"
+  },
+  "Priva28/HostingPassthrough": {
+    "url": "https://github.com/Priva28/HostingPassthrough"
+  },
+  "CocoaDebug/CocoaDebug": {
+    "url": "https://github.com/CocoaDebug/CocoaDebug"
+  },
+  "calmone/iOS-UIKit-component": {
+    "url": "https://github.com/calmone/iOS-UIKit-component"
+  },
+  "touyou/NeumorphismTab": {
+    "url": "https://github.com/touyou/NeumorphismTab"
+  },
+  "liyicky/Swiftful-Tab-Bar": {
+    "url": "https://github.com/liyicky/Swiftful-Tab-Bar"
+  },
+  "pratikg29/CustomTabBar": {
+    "url": "https://github.com/pratikg29/CustomTabBar"
+  },
+  "afshin-hoseini/LimberTabbar.iOS": {
+    "url": "https://github.com/afshin-hoseini/LimberTabbar.iOS"
+  },
+  "wxxsw/GSPlayer": {
+    "url": "https://github.com/wxxsw/GSPlayer"
+  },
+  "sourcelocation/Evyrest": {
+    "url": "https://github.com/sourcelocation/Evyrest"
+  },
+  "hankxdev/one-click-extensions-manager": {
+    "url": "https://github.com/hankxdev/one-click-extensions-manager"
+  },
+  "sakarie9/TG-EFB-QQ-Docker": {
+    "url": "https://github.com/sakarie9/TG-EFB-QQ-Docker"
+  },
+  "zbezj/HEU_KMS_Activator": {
+    "url": "https://github.com/zbezj/HEU_KMS_Activator"
+  },
+  "akemin-dayo/AppSync": {
+    "url": "https://github.com/akemin-dayo/AppSync"
+  },
+  "yangKJ/Moonlit": {
+    "url": "https://github.com/yangKJ/Moonlit"
+  },
+  "YueChen-C/py-ios-device": {
+    "url": "https://github.com/YueChen-C/py-ios-device"
+  },
+  "TeamPGM/PagerMaid-Pyro": {
+    "url": "https://github.com/TeamPGM/PagerMaid-Pyro"
+  },
+  "Sophia-Community/SophiApp": {
+    "url": "https://github.com/Sophia-Community/SophiApp"
+  },
+  "PaulTaykalo/swift-scripts": {
+    "url": "https://github.com/PaulTaykalo/swift-scripts"
+  },
+  "lemon4ex/EasyDev": {
+    "url": "https://github.com/lemon4ex/EasyDev"
+  },
+  "doggy8088/TampermonkeyUserscripts": {
+    "url": "https://github.com/doggy8088/TampermonkeyUserscripts"
+  },
+  "sourcelocation/ChatGPT-macOS": {
+    "url": "https://github.com/sourcelocation/ChatGPT-macOS"
+  },
+  "twodayslate/NetUtils": {
+    "url": "https://github.com/twodayslate/NetUtils"
+  },
+  "Kamigami55/awesome-chatgpt": {
+    "url": "https://github.com/Kamigami55/awesome-chatgpt"
+  },
+  "abielzulio/chatgpt-raycast": {
+    "url": "https://github.com/abielzulio/chatgpt-raycast"
+  },
+  "SmileZXLee/ZXRequestBlock": {
+    "url": "https://github.com/SmileZXLee/ZXRequestBlock"
+  },
+  "duraidabdul/LocalConsole": {
+    "url": "https://github.com/duraidabdul/LocalConsole"
+  },
+  "Clipy/RxScreeen": {
+    "url": "https://github.com/Clipy/RxScreeen"
+  },
+  "kawamataryo/alfred-imagemin": {
+    "url": "https://github.com/kawamataryo/alfred-imagemin"
+  },
+  "JeaSungLEE/Awesome-Xcode-Behaviors": {
+    "url": "https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors"
+  },
+  "postponement/YCAutoTrackTool": {
+    "url": "https://github.com/postponement/YCAutoTrackTool"
+  },
+  "luyinuo/YNStatusBar": {
+    "url": "https://github.com/luyinuo/YNStatusBar"
+  },
+  "yoxisem544/ScreenshotPreventing-iOS": {
+    "url": "https://github.com/yoxisem544/ScreenshotPreventing-iOS"
+  },
+  "usememos/memos": {
+    "url": "https://github.com/usememos/memos"
+  },
+  "gaowei-space/markdown-blog": {
+    "url": "https://github.com/gaowei-space/markdown-blog"
+  },
+  "fxm90/GradientLoadingBar": {
+    "url": "https://github.com/fxm90/GradientLoadingBar"
+  },
+  "xuxiaodong/usingcli-book": {
+    "url": "https://github.com/xuxiaodong/usingcli-book"
+  },
+  "LiteAVSDK/Player_iOS": {
+    "url": "https://github.com/LiteAVSDK/Player_iOS"
+  },
+  "520coding/confuse": {
+    "url": "https://github.com/520coding/confuse"
+  },
+  "nisrulz/app-privacy-policy-generator": {
+    "url": "https://github.com/nisrulz/app-privacy-policy-generator"
+  },
+  "rock-app/fabu.love": {
+    "url": "https://github.com/rock-app/fabu.love"
+  },
+  "atharva-lipare/MS-Teams-Auto-Joiner": {
+    "url": "https://github.com/atharva-lipare/MS-Teams-Auto-Joiner"
+  },
+  "teja156/microsoft-teams-class-attender": {
+    "url": "https://github.com/teja156/microsoft-teams-class-attender"
+  },
+  "TobiasPankner/Teams-Auto-Joiner": {
+    "url": "https://github.com/TobiasPankner/Teams-Auto-Joiner"
+  },
+  "snooze92/alfred-epoch-converter": {
+    "url": "https://github.com/snooze92/alfred-epoch-converter"
+  },
+  "devxoul/Then": {
+    "url": "https://github.com/devxoul/Then"
+  },
+  "roberthein/BouncyLayout": {
+    "url": "https://github.com/roberthein/BouncyLayout"
+  },
+  "yangKJ/RxNetworks": {
+    "url": "https://github.com/yangKJ/RxNetworks"
+  },
+  "InsectQY/Candy": {
+    "url": "https://github.com/InsectQY/Candy"
+  },
+  "pinauten/Fugu15": {
+    "url": "https://github.com/pinauten/Fugu15"
+  },
+  "mac-cain13/R.swift": {
+    "url": "https://github.com/mac-cain13/R.swift"
+  },
+  "app2smile/rules": {
+    "url": "https://github.com/app2smile/rules"
+  },
+  "deezertidal/private": {
+    "url": "https://github.com/deezertidal/private"
+  },
+  "Tartarus2014/Loon-Script": {
+    "url": "https://github.com/Tartarus2014/Loon-Script"
+  },
+  "nicoduj/homebridge-deebotEcovacs": {
+    "url": "https://github.com/nicoduj/homebridge-deebotEcovacs"
+  },
+  "YQqiang/ScanQRCodeMacOS": {
+    "url": "https://github.com/YQqiang/ScanQRCodeMacOS"
+  },
+  "jaywcjlove/linux-command": {
+    "url": "https://github.com/jaywcjlove/linux-command"
+  },
+  "spotDL/spotify-downloader": {
+    "url": "https://github.com/spotDL/spotify-downloader"
+  },
+  "AlistGo/alist": {
+    "url": "https://github.com/AlistGo/alist"
+  },
+  "qnblackcat/IGSideloadFix": {
+    "url": "https://github.com/qnblackcat/IGSideloadFix"
+  },
+  "icret/EasyImages2.0": {
+    "url": "https://github.com/icret/EasyImages2.0"
+  },
+  "jim60105/docker-youtube-dl": {
+    "url": "https://github.com/jim60105/docker-youtube-dl"
+  },
+  "lanmaster53/recon-ng": {
+    "url": "https://github.com/lanmaster53/recon-ng"
+  },
+  "cloudreve/Cloudreve": {
+    "url": "https://github.com/cloudreve/Cloudreve"
+  },
+  "Schlaubischlump/LocationSimulator": {
+    "url": "https://github.com/Schlaubischlump/LocationSimulator"
+  },
+  "shlinkio/shlink": {
+    "url": "https://github.com/shlinkio/shlink"
+  },
+  "palera1n/palera1n": {
+    "url": "https://github.com/palera1n/palera1n"
+  },
+  "permasigner/permasigner": {
+    "url": "https://github.com/permasigner/permasigner"
+  },
+  "uias/Pageboy": {
+    "url": "https://github.com/uias/Pageboy"
+  },
+  "34306/TrollStoreiPA": {
+    "url": "https://github.com/34306/TrollStoreiPA"
+  },
+  "hurlenko/filebrowser-docker": {
+    "url": "https://github.com/hurlenko/filebrowser-docker"
+  },
+  "P3TERX/Aria2-Pro-Docker": {
+    "url": "https://github.com/P3TERX/Aria2-Pro-Docker"
+  },
+  "ergunemr/BottomPopup": {
+    "url": "https://github.com/ergunemr/BottomPopup"
+  },
+  "joekndy/MarqueeText": {
+    "url": "https://github.com/joekndy/MarqueeText"
+  },
+  "sindresorhus/caprine": {
+    "url": "https://github.com/sindresorhus/caprine"
+  },
+  "finn-no/BottomSheet": {
+    "url": "https://github.com/finn-no/BottomSheet"
+  },
+  "opa334/TrollStore": {
+    "url": "https://github.com/opa334/TrollStore"
+  },
+  "yizhaorong/intranet_app_manager": {
+    "url": "https://github.com/yizhaorong/intranet_app_manager"
+  },
+  "gonzalonunez/Skeleton": {
+    "url": "https://github.com/gonzalonunez/Skeleton"
+  },
+  "shoheiyokoyama/Gemini": {
+    "url": "https://github.com/shoheiyokoyama/Gemini"
+  },
+  "rryam/MusadoraKit": {
+    "url": "https://github.com/rryam/MusadoraKit"
+  },
+  "public-apis/public-apis": {
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  "cryptpad/cryptpad": {
+    "url": "https://github.com/cryptpad/cryptpad"
+  },
+  "Lakr233/ActionBee": {
+    "url": "https://github.com/Lakr233/ActionBee"
+  },
+  "kean/Nuke": {
+    "url": "https://github.com/kean/Nuke"
+  },
+  "python/python-docs-zh-tw": {
+    "url": "https://github.com/python/python-docs-zh-tw"
+  },
+  "stemrollerapp/stemroller": {
+    "url": "https://github.com/stemrollerapp/stemroller"
+  },
+  "PlayCover/PlayCover": {
+    "url": "https://github.com/PlayCover/PlayCover"
+  },
+  "rodber/chevereto-free": {
+    "url": "https://github.com/rodber/chevereto-free"
+  },
+  "swifweb/web": {
+    "url": "https://github.com/swifweb/web"
+  },
+  "charmbracelet/gum": {
+    "url": "https://github.com/charmbracelet/gum"
+  },
+  "YtvwlD/hedgedoc-backup": {
+    "url": "https://github.com/YtvwlD/hedgedoc-backup"
+  },
+  "MTACS/ReFinder": {
+    "url": "https://github.com/MTACS/ReFinder"
+  },
+  "bater/reverse-interview-zh_tw": {
+    "url": "https://github.com/bater/reverse-interview-zh_tw"
+  },
+  "DragonCherry/AssetsPickerViewController": {
+    "url": "https://github.com/DragonCherry/AssetsPickerViewController"
+  },
+  "IcesandSora/homebridge-deye": {
+    "url": "https://github.com/IcesandSora/homebridge-deye"
+  },
+  "KJCracks/Clutch": {
+    "url": "https://github.com/KJCracks/Clutch"
+  },
+  "homebridge/homebridge": {
+    "url": "https://github.com/homebridge/homebridge"
+  },
+  "IvanAkulov/iOS-Demos": {
+    "url": "https://github.com/IvanAkulov/iOS-Demos"
+  },
+  "AppHouseKitchen/AlDente-Charge-Limiter": {
+    "url": "https://github.com/AppHouseKitchen/AlDente-Charge-Limiter"
+  },
+  "vitorgalvao/alfred-workflows": {
+    "url": "https://github.com/vitorgalvao/alfred-workflows"
+  },
+  "jfarmer08/homebridge-wyze-smart-home": {
+    "url": "https://github.com/jfarmer08/homebridge-wyze-smart-home"
+  },
+  "Java-S12138/frank": {
+    "url": "https://github.com/Java-S12138/frank"
+  },
+  "babysor/MockingBird": {
+    "url": "https://github.com/babysor/MockingBird"
+  },
+  "Paisseon/SatellaJailed": {
+    "url": "https://github.com/Paisseon/SatellaJailed"
+  },
+  "MihaelIsaev/FCM": {
+    "url": "https://github.com/MihaelIsaev/FCM"
+  },
+  "MihaelIsaev/UIKitPlus": {
+    "url": "https://github.com/MihaelIsaev/UIKitPlus"
+  },
+  "aheze/Multiliner": {
+    "url": "https://github.com/aheze/Multiliner"
+  },
+  "jubepue/homebridge-petkit-pet-feeder": {
+    "url": "https://github.com/jubepue/homebridge-petkit-pet-feeder"
+  },
+  "vChewing/vChewing-macOS": {
+    "url": "https://github.com/vChewing/vChewing-macOS"
+  },
+  "45clouds/WirelessCarPlay": {
+    "url": "https://github.com/45clouds/WirelessCarPlay"
+  },
+  "lascic/UIOnboarding": {
+    "url": "https://github.com/lascic/UIOnboarding"
+  },
+  "yangKJ/PT": {
+    "url": "https://github.com/yangKJ/PT"
+  },
+  "lemon4ex/XcodeRootDebug": {
+    "url": "https://github.com/lemon4ex/XcodeRootDebug"
+  },
+  "lemon4ex/Replica": {
+    "url": "https://github.com/lemon4ex/Replica"
+  },
+  "ddddxxx/LyricsX": {
+    "url": "https://github.com/ddddxxx/LyricsX"
+  },
+  "sparanoid/live-dl": {
+    "url": "https://github.com/sparanoid/live-dl"
+  },
+  "gdi3d/mute-spotify-ads-mac-osx": {
+    "url": "https://github.com/gdi3d/mute-spotify-ads-mac-osx"
+  },
+  "ginsudev/DockLS": {
+    "url": "https://github.com/ginsudev/DockLS"
+  },
+  "devicekit/DeviceKit": {
+    "url": "https://github.com/devicekit/DeviceKit"
+  },
+  "hasscc/catlink": {
+    "url": "https://github.com/hasscc/catlink"
+  },
+  "robb/dotfiles": {
+    "url": "https://github.com/robb/dotfiles"
+  },
+  "dqhieu/UIGradient": {
+    "url": "https://github.com/dqhieu/UIGradient"
+  },
+  "hedgedoc/hedgedoc": {
+    "url": "https://github.com/hedgedoc/hedgedoc"
+  },
+  "hashcat/hashcat": {
+    "url": "https://github.com/hashcat/hashcat"
+  },
+  "tryzealot/zealot": {
+    "url": "https://github.com/tryzealot/zealot"
+  },
+  "filsv/iOSDeviceSupport": {
+    "url": "https://github.com/filsv/iOSDeviceSupport"
+  },
+  "fniephaus/alfred-homebrew": {
+    "url": "https://github.com/fniephaus/alfred-homebrew"
+  },
+  "SnapDrop/snapdrop": {
+    "url": "https://github.com/SnapDrop/snapdrop"
+  },
+  "TheLittleBoy/TextDetection-VIN": {
+    "url": "https://github.com/TheLittleBoy/TextDetection-VIN"
+  },
+  "markst/hotreloading-vscode-ios": {
+    "url": "https://github.com/markst/hotreloading-vscode-ios"
+  },
+  "joemccann/dillinger": {
+    "url": "https://github.com/joemccann/dillinger"
+  },
+  "orangepi-xunlong/orangepi-build": {
+    "url": "https://github.com/orangepi-xunlong/orangepi-build"
+  },
+  "ZacharyKhan/ZKCarousel": {
+    "url": "https://github.com/ZacharyKhan/ZKCarousel"
+  },
+  "grundic/jamulus-docker": {
+    "url": "https://github.com/grundic/jamulus-docker"
+  },
+  "jamulussoftware/jamulus": {
+    "url": "https://github.com/jamulussoftware/jamulus"
+  },
+  "exyte/ScalingHeaderScrollView": {
+    "url": "https://github.com/exyte/ScalingHeaderScrollView"
+  },
+  "tmplink/tmplink_webapp": {
+    "url": "https://github.com/tmplink/tmplink_webapp"
+  },
+  "willowtreeapps/spruce-ios": {
+    "url": "https://github.com/willowtreeapps/spruce-ios"
+  },
+  "aheze/RealityKitLaunchScreen": {
+    "url": "https://github.com/aheze/RealityKitLaunchScreen"
+  },
+  "ProxymanApp/atlantis": {
+    "url": "https://github.com/ProxymanApp/atlantis"
+  },
+  "Kyome22/ScaleHelper": {
+    "url": "https://github.com/Kyome22/ScaleHelper"
+  },
+  "Kyome22/RunCat_for_windows": {
+    "url": "https://github.com/Kyome22/RunCat_for_windows"
+  },
+  "homebridge-plugins/homebridge-deebot": {
+    "url": "https://github.com/homebridge-plugins/homebridge-deebot"
+  },
+  "sourcelocation/cardculator": {
+    "url": "https://github.com/sourcelocation/cardculator"
+  },
+  "theos/orion": {
+    "url": "https://github.com/theos/orion"
+  },
+  "hughkli/Lookin": {
+    "url": "https://github.com/hughkli/Lookin"
+  },
+  "sourcelocation/transparentdock": {
+    "url": "https://github.com/sourcelocation/transparentdock"
+  },
+  "nabla-c0d3/ssl-kill-switch2": {
+    "url": "https://github.com/nabla-c0d3/ssl-kill-switch2"
+  },
+  "molenzwiebel/Deceive": {
+    "url": "https://github.com/molenzwiebel/Deceive"
+  },
+  "HuolalaTech/HLLOfflineWebVC-iOS": {
+    "url": "https://github.com/HuolalaTech/HLLOfflineWebVC-iOS"
+  },
+  "sparrowcode/SwiftBoost": {
+    "url": "https://github.com/sparrowcode/SwiftBoost"
+  },
+  "ajayyy/SponsorBlock": {
+    "url": "https://github.com/ajayyy/SponsorBlock"
+  },
+  "tigerAndBull/TABAnimated": {
+    "url": "https://github.com/tigerAndBull/TABAnimated"
+  },
+  "opa334/SafariPlus": {
+    "url": "https://github.com/opa334/SafariPlus"
+  },
+  "AvdLee/RocketSimApp": {
+    "url": "https://github.com/AvdLee/RocketSimApp"
+  },
+  "devcxm/iOS-Images-Extractor": {
+    "url": "https://github.com/devcxm/iOS-Images-Extractor"
+  },
+  "adamshin/SwiftReorder": {
+    "url": "https://github.com/adamshin/SwiftReorder"
+  },
+  "wickwirew/Runtime": {
+    "url": "https://github.com/wickwirew/Runtime"
+  },
+  "twilio/video-quickstart-ios": {
+    "url": "https://github.com/twilio/video-quickstart-ios"
+  },
+  "danielpaulus/go-ios": {
+    "url": "https://github.com/danielpaulus/go-ios"
+  },
+  "muzipiao/GMObjC": {
+    "url": "https://github.com/muzipiao/GMObjC"
+  },
+  "pkluz/PKHUD": {
+    "url": "https://github.com/pkluz/PKHUD"
+  },
+  "Lessica/ObservableUserDefaults": {
+    "url": "https://github.com/Lessica/ObservableUserDefaults"
+  },
+  "itsmeichigo/DateTimePicker": {
+    "url": "https://github.com/itsmeichigo/DateTimePicker"
+  },
+  "yeahdongcn/UIColor-Hex-Swift": {
+    "url": "https://github.com/yeahdongcn/UIColor-Hex-Swift"
+  },
+  "spencerwooo/PaimonMenuBar": {
+    "url": "https://github.com/spencerwooo/PaimonMenuBar"
+  },
+  "QL-Win/QuickLook": {
+    "url": "https://github.com/QL-Win/QuickLook"
+  },
+  "DataDog/dd-sdk-ios": {
+    "url": "https://github.com/DataDog/dd-sdk-ios"
+  },
+  "marcosgriselli/EasyTransitions": {
+    "url": "https://github.com/marcosgriselli/EasyTransitions"
+  },
+  "gskbyte/GSKStretchyHeaderView": {
+    "url": "https://github.com/gskbyte/GSKStretchyHeaderView"
+  },
+  "soberman/ARSLineProgress": {
+    "url": "https://github.com/soberman/ARSLineProgress"
+  },
+  "sindresorhus/KeyboardShortcuts": {
+    "url": "https://github.com/sindresorhus/KeyboardShortcuts"
+  },
+  "sindresorhus/Gifski": {
+    "url": "https://github.com/sindresorhus/Gifski"
+  },
+  "Tencent/vap": {
+    "url": "https://github.com/Tencent/vap"
+  },
+  "fanglinwei/Jenga": {
+    "url": "https://github.com/fanglinwei/Jenga"
+  },
+  "kevin-lyn/STPopup": {
+    "url": "https://github.com/kevin-lyn/STPopup"
+  },
+  "WeTransfer/WeScan": {
+    "url": "https://github.com/WeTransfer/WeScan"
+  },
+  "Moya/Moya": {
+    "url": "https://github.com/Moya/Moya"
+  },
+  "mattrubin/OneTimePassword": {
+    "url": "https://github.com/mattrubin/OneTimePassword"
+  },
+  "justeat/JustTweak": {
+    "url": "https://github.com/justeat/JustTweak"
+  },
+  "raycast/extensions": {
+    "url": "https://github.com/raycast/extensions"
+  },
+  "p0deje/Maccy": {
+    "url": "https://github.com/p0deje/Maccy"
+  },
+  "eggswift/ESTabBarController": {
+    "url": "https://github.com/eggswift/ESTabBarController"
+  },
+  "liujunliuhong/TabBar": {
+    "url": "https://github.com/liujunliuhong/TabBar"
+  },
+  "bcylin/QuickTableViewController": {
+    "url": "https://github.com/bcylin/QuickTableViewController"
+  },
+  "alexchantastic/alfred-open-with-vscode-workflow": {
+    "url": "https://github.com/alexchantastic/alfred-open-with-vscode-workflow"
+  },
+  "krzysztofzablocki/Inject": {
+    "url": "https://github.com/krzysztofzablocki/Inject"
+  },
+  "RxSwiftCommunity/RxDataSources": {
+    "url": "https://github.com/RxSwiftCommunity/RxDataSources"
+  },
+  "withfig/fig": {
+    "url": "https://github.com/withfig/fig"
+  },
+  "immich-app/immich": {
+    "url": "https://github.com/immich-app/immich"
+  },
+  "objective-see/LuLu": {
+    "url": "https://github.com/objective-see/LuLu"
+  },
+  "airsquared/blobsaver": {
+    "url": "https://github.com/airsquared/blobsaver"
+  },
+  "withfig/autocomplete": {
+    "url": "https://github.com/withfig/autocomplete"
+  },
+  "unixzii/XcodePatch": {
+    "url": "https://github.com/unixzii/XcodePatch"
+  },
+  "SwiftKickMobile/SwiftMessages": {
+    "url": "https://github.com/SwiftKickMobile/SwiftMessages"
+  },
+  "SwiftGGTeam/the-swift-programming-language-in-chinese": {
+    "url": "https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese"
+  },
+  "todayios-cydia/TSWoodPeckeriOSLoader": {
+    "url": "https://github.com/todayios-cydia/TSWoodPeckeriOSLoader"
+  },
+  "pro648/BlinkLabel": {
+    "url": "https://github.com/pro648/BlinkLabel"
+  },
+  "HansenCCC/HSAddUdids": {
+    "url": "https://github.com/HansenCCC/HSAddUdids"
+  },
+  "KarimEbrahemAbdelaziz/SwiftyMenu": {
+    "url": "https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu"
+  },
+  "kean/Pulse": {
+    "url": "https://github.com/kean/Pulse"
+  },
+  "gojue/ecapture": {
+    "url": "https://github.com/gojue/ecapture"
+  },
+  "MonitorControl/MonitorControl": {
+    "url": "https://github.com/MonitorControl/MonitorControl"
+  },
+  "paradiseduo/IPAPatch": {
+    "url": "https://github.com/paradiseduo/IPAPatch"
+  },
+  "wulkano/Kap": {
+    "url": "https://github.com/wulkano/Kap"
+  },
+  "kyleneideck/BackgroundMusic": {
+    "url": "https://github.com/kyleneideck/BackgroundMusic"
+  },
+  "623637646/ImpressionKit": {
+    "url": "https://github.com/623637646/ImpressionKit"
+  },
+  "qchenqizhi/QCropper": {
+    "url": "https://github.com/qchenqizhi/QCropper"
+  },
+  "neoneye/SwiftyFORM": {
+    "url": "https://github.com/neoneye/SwiftyFORM"
+  },
+  "tadija/AEIconizer": {
+    "url": "https://github.com/tadija/AEIconizer"
+  },
+  "HeroTransitions/Hero": {
+    "url": "https://github.com/HeroTransitions/Hero"
+  },
+  "storybookjs/storybook": {
+    "url": "https://github.com/storybookjs/storybook"
+  },
+  "CubicPill/line_stickers_to_telegram": {
+    "url": "https://github.com/CubicPill/line_stickers_to_telegram"
+  },
+  "iineva/ipa-server": {
+    "url": "https://github.com/iineva/ipa-server"
+  },
+  "yangKJ/RxPagerView": {
+    "url": "https://github.com/yangKJ/RxPagerView"
+  },
+  "dyumin/Draggy": {
+    "url": "https://github.com/dyumin/Draggy"
+  },
+  "square/Listable": {
+    "url": "https://github.com/square/Listable"
+  },
+  "Cuberto/flashy-tabbar": {
+    "url": "https://github.com/Cuberto/flashy-tabbar"
+  },
+  "ferranabello/Viperit": {
+    "url": "https://github.com/ferranabello/Viperit"
+  },
+  "tungfam/ImageInNavigationBarDemo": {
+    "url": "https://github.com/tungfam/ImageInNavigationBarDemo"
+  },
+  "rechsteiner/Parchment": {
+    "url": "https://github.com/rechsteiner/Parchment"
+  },
+  "12207480/TYCyclePagerView": {
+    "url": "https://github.com/12207480/TYCyclePagerView"
+  },
+  "bartoszj/acextract": {
+    "url": "https://github.com/bartoszj/acextract"
+  },
+  "virakri/shinkansen-3d-seat-booking-prototype": {
+    "url": "https://github.com/virakri/shinkansen-3d-seat-booking-prototype"
+  },
+  "speedchecker/speedchecker-sdk-ios": {
+    "url": "https://github.com/speedchecker/speedchecker-sdk-ios"
+  },
+  "jonathansilva/8BallPool": {
+    "url": "https://github.com/jonathansilva/8BallPool"
+  },
+  "FluidGroup/FluidInterfaceKit": {
+    "url": "https://github.com/FluidGroup/FluidInterfaceKit"
+  },
+  "wuba/WBBlades": {
+    "url": "https://github.com/wuba/WBBlades"
+  },
+  "JohnSundell/XcodeTheme": {
+    "url": "https://github.com/JohnSundell/XcodeTheme"
+  },
+  "pointfreeco/swift-custom-dump": {
+    "url": "https://github.com/pointfreeco/swift-custom-dump"
+  },
+  "securing/IOSSecuritySuite": {
+    "url": "https://github.com/securing/IOSSecuritySuite"
+  },
+  "paradiseduo/resymbol": {
+    "url": "https://github.com/paradiseduo/resymbol"
+  },
+  "dimazen/keys-generator": {
+    "url": "https://github.com/dimazen/keys-generator"
+  },
+  "neil-wu/SwiftDump": {
+    "url": "https://github.com/neil-wu/SwiftDump"
+  },
+  "paradiseduo/dsdump": {
+    "url": "https://github.com/paradiseduo/dsdump"
+  },
+  "easychen/pushdeer": {
+    "url": "https://github.com/easychen/pushdeer"
+  },
+  "biati-digital/alfred-calculate-anything": {
+    "url": "https://github.com/biati-digital/alfred-calculate-anything"
+  },
+  "seydx/homebridge-camera-ui": {
+    "url": "https://github.com/seydx/homebridge-camera-ui"
+  },
+  "perklet/reverse-interview-zh": {
+    "url": "https://github.com/perklet/reverse-interview-zh"
+  },
+  "henrywhitaker3/Speedtest-Tracker": {
+    "url": "https://github.com/henrywhitaker3/Speedtest-Tracker"
+  },
+  "JiongXing/PhotoBrowser": {
+    "url": "https://github.com/JiongXing/PhotoBrowser"
+  },
+  "Piwigo/Piwigo": {
+    "url": "https://github.com/Piwigo/Piwigo"
+  },
+  "photoprism/photoprism": {
+    "url": "https://github.com/photoprism/photoprism"
+  },
+  "LibrePhotos/librephotos": {
+    "url": "https://github.com/LibrePhotos/librephotos"
+  },
+  "ttionya/vaultwarden-backup": {
+    "url": "https://github.com/ttionya/vaultwarden-backup"
+  },
+  "DevToys-app/DevToysMac": {
+    "url": "https://github.com/DevToys-app/DevToysMac"
+  },
+  "akshay9/librephotos-mobile": {
+    "url": "https://github.com/akshay9/librephotos-mobile"
+  },
+  "commaai/openpilot": {
+    "url": "https://github.com/commaai/openpilot"
+  },
+  "electerious/Lychee": {
+    "url": "https://github.com/electerious/Lychee"
+  },
+  "nanoninja/docker-nginx-php-mysql": {
+    "url": "https://github.com/nanoninja/docker-nginx-php-mysql"
+  },
+  "KhaosT/MacVM": {
+    "url": "https://github.com/KhaosT/MacVM"
+  },
+  "rhysmorgan134/react-carplay": {
+    "url": "https://github.com/rhysmorgan134/react-carplay"
+  },
+  "meitu/MTHawkeye": {
+    "url": "https://github.com/meitu/MTHawkeye"
+  },
+  "openvanilla/McBopomofo": {
+    "url": "https://github.com/openvanilla/McBopomofo"
+  },
+  "marcosgriselli/ViewAnimator": {
+    "url": "https://github.com/marcosgriselli/ViewAnimator"
+  },
+  "localtunnel/localtunnel": {
+    "url": "https://github.com/localtunnel/localtunnel"
+  },
+  "ChiChou/grapefruit": {
+    "url": "https://github.com/ChiChou/grapefruit"
+  },
+  "luispadron/UICircularProgressRing": {
+    "url": "https://github.com/luispadron/UICircularProgressRing"
+  },
+  "danny0838/content-farm-terminator": {
+    "url": "https://github.com/danny0838/content-farm-terminator"
+  },
+  "homebridge/docker-homebridge": {
+    "url": "https://github.com/homebridge/docker-homebridge"
+  },
+  "lixiang1994/VideoTransitionDemo": {
+    "url": "https://github.com/lixiang1994/VideoTransitionDemo"
+  },
+  "SvenTiigi/WhatsNewKit": {
+    "url": "https://github.com/SvenTiigi/WhatsNewKit"
+  },
+  "lixiang1994/UIAdapter": {
+    "url": "https://github.com/lixiang1994/UIAdapter"
+  },
+  "lixiang1994/AttributedString": {
+    "url": "https://github.com/lixiang1994/AttributedString"
+  },
+  "pluosi/app-host": {
+    "url": "https://github.com/pluosi/app-host"
+  },
+  "LuizZak/SwiftRewriter": {
+    "url": "https://github.com/LuizZak/SwiftRewriter"
+  },
+  "ChangbaDevs/KTVCocoaHTTPServer": {
+    "url": "https://github.com/ChangbaDevs/KTVCocoaHTTPServer"
+  },
+  "Lete114/Hexo-Theme-MengD": {
+    "url": "https://github.com/Lete114/Hexo-Theme-MengD"
+  },
+  "MTsung/LINE_Notify_PHP": {
+    "url": "https://github.com/MTsung/LINE_Notify_PHP"
+  },
+  "MTsung/nueip_auto_clock_in": {
+    "url": "https://github.com/MTsung/nueip_auto_clock_in"
+  },
+  "l1Dan/NXNavigationExtension": {
+    "url": "https://github.com/l1Dan/NXNavigationExtension"
+  },
+  "ivanvorobei/SPPageController": {
+    "url": "https://github.com/ivanvorobei/SPPageController"
+  },
+  "renbaoshuo/Shortlink": {
+    "url": "https://github.com/renbaoshuo/Shortlink"
+  },
+  "clawfire/covid19-passbook-generator": {
+    "url": "https://github.com/clawfire/covid19-passbook-generator"
+  },
+  "futuretap/InAppSettingsKit": {
+    "url": "https://github.com/futuretap/InAppSettingsKit"
+  },
+  "Tencent/matrix": {
+    "url": "https://github.com/Tencent/matrix"
+  },
+  "jacklandrin/OnlySwitch": {
+    "url": "https://github.com/jacklandrin/OnlySwitch"
+  },
+  "yeszao/dnmp": {
+    "url": "https://github.com/yeszao/dnmp"
+  },
+  "onmyway133/PushNotifications": {
+    "url": "https://github.com/onmyway133/PushNotifications"
+  },
+  "khezen/compose-postgres": {
+    "url": "https://github.com/khezen/compose-postgres"
+  },
+  "fcbox/Lantern": {
+    "url": "https://github.com/fcbox/Lantern"
+  },
+  "Zaprogramiacz/MGFlipView": {
+    "url": "https://github.com/Zaprogramiacz/MGFlipView"
+  },
+  "benbusby/whoogle-search": {
+    "url": "https://github.com/benbusby/whoogle-search"
+  },
+  "lmk123/oh-my-wechat": {
+    "url": "https://github.com/lmk123/oh-my-wechat"
+  },
+  "parse-community/Parse-SDK-iOS-OSX": {
+    "url": "https://github.com/parse-community/Parse-SDK-iOS-OSX"
+  },
+  "parse-community/Parse-Swift": {
+    "url": "https://github.com/parse-community/Parse-Swift"
+  },
+  "sparrowcode/UIKitExtension": {
+    "url": "https://github.com/sparrowcode/UIKitExtension"
+  },
+  "beeth0ven/RxSwift-Chinese-Documentation": {
+    "url": "https://github.com/beeth0ven/RxSwift-Chinese-Documentation"
+  },
+  "rsms/fb-mac-messenger": {
+    "url": "https://github.com/rsms/fb-mac-messenger"
+  },
+  "isavynskyi/LayoutInspector": {
+    "url": "https://github.com/isavynskyi/LayoutInspector"
+  },
+  "wwmz/WMZDialog": {
+    "url": "https://github.com/wwmz/WMZDialog"
+  },
+  "FutaGuard/LowTechFilter": {
+    "url": "https://github.com/FutaGuard/LowTechFilter"
+  },
+  "BreezeWhite/THSR-Ticket": {
+    "url": "https://github.com/BreezeWhite/THSR-Ticket"
+  },
+  "alseambusher/crontab-ui": {
+    "url": "https://github.com/alseambusher/crontab-ui"
+  },
+  "TonyReet/TYSnapshotScroll": {
+    "url": "https://github.com/TonyReet/TYSnapshotScroll"
+  },
+  "pvieito/PythonKit": {
+    "url": "https://github.com/pvieito/PythonKit"
+  },
+  "LonamiWebs/Telethon": {
+    "url": "https://github.com/LonamiWebs/Telethon"
+  },
+  "luosheng/arm64-to-sim": {
+    "url": "https://github.com/luosheng/arm64-to-sim"
+  },
+  "lm2343635/ShapeView": {
+    "url": "https://github.com/lm2343635/ShapeView"
+  },
+  "QMUI/QMUI_iOS_CodeSnippets": {
+    "url": "https://github.com/QMUI/QMUI_iOS_CodeSnippets"
+  },
+  "Cenmrev/V2RayW": {
+    "url": "https://github.com/Cenmrev/V2RayW"
+  },
+  "nmdias/DefaultsKit": {
+    "url": "https://github.com/nmdias/DefaultsKit"
+  },
+  "baozoudiudiu/CWCarousel": {
+    "url": "https://github.com/baozoudiudiu/CWCarousel"
+  },
+  "Mattijah/QKMRZScanner": {
+    "url": "https://github.com/Mattijah/QKMRZScanner"
+  },
+  "kasketis/netfox": {
+    "url": "https://github.com/kasketis/netfox"
+  },
+  "c1d3rdev/ChatHeads": {
+    "url": "https://github.com/c1d3rdev/ChatHeads"
+  },
+  "jonhadfield/awesome-standard-notes": {
+    "url": "https://github.com/jonhadfield/awesome-standard-notes"
+  },
+  "iganeshk/standardnotes-extensions": {
+    "url": "https://github.com/iganeshk/standardnotes-extensions"
+  },
+  "standardnotes/self-hosted": {
+    "url": "https://github.com/standardnotes/self-hosted"
+  },
+  "ealeksandrov/ProvisionQL": {
+    "url": "https://github.com/ealeksandrov/ProvisionQL"
+  },
+  "bbmaster123/10SM": {
+    "url": "https://github.com/bbmaster123/10SM"
+  },
+  "c1d3rdev/Notchification": {
+    "url": "https://github.com/c1d3rdev/Notchification"
+  },
+  "Andrew-Morozko/currency-converter": {
+    "url": "https://github.com/Andrew-Morozko/currency-converter"
+  },
+  "hello-david/SwiftV2Ray": {
+    "url": "https://github.com/hello-david/SwiftV2Ray"
+  },
+  "mapbox/XcodeClangFormat": {
+    "url": "https://github.com/mapbox/XcodeClangFormat"
+  },
+  "SilenceLove/HXPhotoPicker": {
+    "url": "https://github.com/SilenceLove/HXPhotoPicker"
+  },
+  "scinfu/SwiftSoup": {
+    "url": "https://github.com/scinfu/SwiftSoup"
+  },
+  "sparrowcode/PermissionsKit": {
+    "url": "https://github.com/sparrowcode/PermissionsKit"
+  },
+  "JZ-Darkal/AndroidHttpCapture": {
+    "url": "https://github.com/JZ-Darkal/AndroidHttpCapture"
+  },
+  "GetStream/stream-chat-react": {
+    "url": "https://github.com/GetStream/stream-chat-react"
+  },
+  "zhaofucheng1129/DouyinSwift": {
+    "url": "https://github.com/zhaofucheng1129/DouyinSwift"
+  },
+  "devxoul/MoyaSugar": {
+    "url": "https://github.com/devxoul/MoyaSugar"
+  },
+  "marcosgriselli/SwipeableTabBarController": {
+    "url": "https://github.com/marcosgriselli/SwipeableTabBarController"
+  },
+  "gee1k/uPic": {
+    "url": "https://github.com/gee1k/uPic"
+  },
+  "onevcat/Delegate": {
+    "url": "https://github.com/onevcat/Delegate"
+  },
+  "awesome-selfhosted/awesome-selfhosted": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+  },
+  "summitech/gitexplorer": {
+    "url": "https://github.com/summitech/gitexplorer"
+  },
+  "ChiChou/bagbak": {
+    "url": "https://github.com/ChiChou/bagbak"
+  },
+  "DerekSelander/yacd": {
+    "url": "https://github.com/DerekSelander/yacd"
+  },
+  "uias/Tabman": {
+    "url": "https://github.com/uias/Tabman"
+  },
+  "eliakorkmaz/iCard": {
+    "url": "https://github.com/eliakorkmaz/iCard"
+  },
+  "agiapp/BRPickerView": {
+    "url": "https://github.com/agiapp/BRPickerView"
+  },
+  "jezzmemo/JJException": {
+    "url": "https://github.com/jezzmemo/JJException"
+  },
+  "onevcat/APNGKit": {
+    "url": "https://github.com/onevcat/APNGKit"
+  },
+  "star-micronics/StarPRNT-SDK-iOS-Swift": {
+    "url": "https://github.com/star-micronics/StarPRNT-SDK-iOS-Swift"
+  },
+  "Lojii/Knot": {
+    "url": "https://github.com/Lojii/Knot"
+  },
+  "Polidea/RxBluetoothKit": {
+    "url": "https://github.com/Polidea/RxBluetoothKit"
+  },
+  "vtourraine/AcknowList": {
+    "url": "https://github.com/vtourraine/AcknowList"
+  },
+  "MetalPetal/MetalPetal": {
+    "url": "https://github.com/MetalPetal/MetalPetal"
+  },
+  "twho/loading-buttons-ios": {
+    "url": "https://github.com/twho/loading-buttons-ios"
+  },
+  "krzyzanowskim/CryptoSwift": {
+    "url": "https://github.com/krzyzanowskim/CryptoSwift"
+  },
+  "layoutBox/PinLayout": {
+    "url": "https://github.com/layoutBox/PinLayout"
+  },
+  "youtube/youtube-ios-player-helper": {
+    "url": "https://github.com/youtube/youtube-ios-player-helper"
+  },
+  "FluidGroup/Rideau": {
+    "url": "https://github.com/FluidGroup/Rideau"
+  },
+  "zhanghuanchong/icon-workshop": {
+    "url": "https://github.com/zhanghuanchong/icon-workshop"
+  },
+  "httpswift/swifter": {
+    "url": "https://github.com/httpswift/swifter"
+  },
+  "vapor/vapor": {
+    "url": "https://github.com/vapor/vapor"
+  },
+  "Coder-TanJX/JXBanner": {
+    "url": "https://github.com/Coder-TanJX/JXBanner"
+  },
+  "mattermost-community/focalboard": {
+    "url": "https://github.com/mattermost-community/focalboard"
+  },
+  "8483/notes": {
+    "url": "https://github.com/8483/notes"
+  },
+  "agmm/standalone-rpi": {
+    "url": "https://github.com/agmm/standalone-rpi"
+  },
+  "standardnotes/syncing-server-js": {
+    "url": "https://github.com/standardnotes/syncing-server-js"
+  },
+  "PerfectlySoft/Perfect": {
+    "url": "https://github.com/PerfectlySoft/Perfect"
+  },
+  "BeatsKitano/KafkaRefresh": {
+    "url": "https://github.com/BeatsKitano/KafkaRefresh"
+  },
+  "freshOS/Router-deprecated": {
+    "url": "https://github.com/freshOS/Router-deprecated"
+  },
+  "RxSwiftCommunity/RxRealm": {
+    "url": "https://github.com/RxSwiftCommunity/RxRealm"
+  },
+  "lachlanbell/SwiftOTP": {
+    "url": "https://github.com/lachlanbell/SwiftOTP"
+  },
+  "hasscc/petkit": {
+    "url": "https://github.com/hasscc/petkit"
+  },
+  "danger/swift": {
+    "url": "https://github.com/danger/swift"
+  },
+  "postlund/hassio-compose": {
+    "url": "https://github.com/postlund/hassio-compose"
+  },
+  "dmpanch/hassio-rpi4-docker-compose": {
+    "url": "https://github.com/dmpanch/hassio-rpi4-docker-compose"
+  },
+  "slidevjs/slidev": {
+    "url": "https://github.com/slidevjs/slidev"
+  },
+  "LZRight123/KPAppMananger": {
+    "url": "https://github.com/LZRight123/KPAppMananger"
+  },
+  "aadog/fd-back": {
+    "url": "https://github.com/aadog/fd-back"
+  },
+  "elfive/homebridge-petkit-feeder-mini": {
+    "url": "https://github.com/elfive/homebridge-petkit-feeder-mini"
+  },
+  "homebridge-plugins/homebridge-ewelink": {
+    "url": "https://github.com/homebridge-plugins/homebridge-ewelink"
+  },
+  "togettoyou/ipashare": {
+    "url": "https://github.com/togettoyou/ipashare"
+  },
+  "hannseman/homebridge-mi-hygrothermograph": {
+    "url": "https://github.com/hannseman/homebridge-mi-hygrothermograph"
+  },
+  "AlexxIT/XiaomiGateway3": {
+    "url": "https://github.com/AlexxIT/XiaomiGateway3"
+  },
+  "dgreif/ring": {
+    "url": "https://github.com/dgreif/ring"
+  },
+  "potato1992/Iphone_usb_tethering_fix": {
+    "url": "https://github.com/potato1992/Iphone_usb_tethering_fix"
+  },
+  "loregr/LGButton": {
+    "url": "https://github.com/loregr/LGButton"
+  },
+  "RenierM26/ha-ezviz": {
+    "url": "https://github.com/RenierM26/ha-ezviz"
+  },
+  "AlexxIT/WebRTC": {
+    "url": "https://github.com/AlexxIT/WebRTC"
+  },
+  "n71154plus/Hitachi_smart_app": {
+    "url": "https://github.com/n71154plus/Hitachi_smart_app"
+  },
+  "tasi788/PTTAutoSign": {
+    "url": "https://github.com/tasi788/PTTAutoSign"
+  },
+  "AlexxIT/SonoffLAN": {
+    "url": "https://github.com/AlexxIT/SonoffLAN"
+  },
+  "lkzhao/Hero2": {
+    "url": "https://github.com/lkzhao/Hero2"
+  },
+  "SDWebImage/SDWebImageAVIFCoder": {
+    "url": "https://github.com/SDWebImage/SDWebImageAVIFCoder"
+  },
+  "we684123/Telegram_link_Line": {
+    "url": "https://github.com/we684123/Telegram_link_Line"
+  },
+  "al-one/hass-xiaomi-miot": {
+    "url": "https://github.com/al-one/hass-xiaomi-miot"
+  },
+  "Brandawg93/homebridge-ezviz": {
+    "url": "https://github.com/Brandawg93/homebridge-ezviz"
+  },
+  "KonradIT/goprowifihack": {
+    "url": "https://github.com/KonradIT/goprowifihack"
+  },
+  "zlldnv/homebridge-mi-ir-remote": {
+    "url": "https://github.com/zlldnv/homebridge-mi-ir-remote"
+  },
+  "ninxsoft/mist-cli": {
+    "url": "https://github.com/ninxsoft/mist-cli"
+  },
+  "vieira/homebridge-yeelight-wifi": {
+    "url": "https://github.com/vieira/homebridge-yeelight-wifi"
+  },
+  "merdok/homebridge-miot": {
+    "url": "https://github.com/merdok/homebridge-miot"
+  },
+  "XLsn0w/Cydiapps": {
+    "url": "https://github.com/XLsn0w/Cydiapps"
+  },
+  "RxSwiftCommunity/RxSwiftExt": {
+    "url": "https://github.com/RxSwiftCommunity/RxSwiftExt"
+  },
+  "jgsamudio/LocationNotifier": {
+    "url": "https://github.com/jgsamudio/LocationNotifier"
+  },
+  "CleverTap/CTNotificationService": {
+    "url": "https://github.com/CleverTap/CTNotificationService"
+  },
+  "RxSwiftCommunity/RxKeyboard": {
+    "url": "https://github.com/RxSwiftCommunity/RxKeyboard"
+  },
+  "surhud004/Foodish": {
+    "url": "https://github.com/surhud004/Foodish"
+  },
+  "ailabstw/social-distancing-ios": {
+    "url": "https://github.com/ailabstw/social-distancing-ios"
+  },
+  "jitsi/docker-jitsi-meet": {
+    "url": "https://github.com/jitsi/docker-jitsi-meet"
+  },
+  "dani-garcia/vaultwarden": {
+    "url": "https://github.com/dani-garcia/vaultwarden"
+  },
+  "bitwarden/desktop": {
+    "url": "https://github.com/bitwarden/desktop"
+  },
+  "ZuopanYao/CacherKit": {
+    "url": "https://github.com/ZuopanYao/CacherKit"
+  },
+  "marty-suzuki/ReverseExtension": {
+    "url": "https://github.com/marty-suzuki/ReverseExtension"
+  },
+  "SmileZXLee/ZXNavigationBar": {
+    "url": "https://github.com/SmileZXLee/ZXNavigationBar"
+  },
+  "RockfordWei/GBig": {
+    "url": "https://github.com/RockfordWei/GBig"
+  },
+  "veritrans/GoPay-Checkout-SDK": {
+    "url": "https://github.com/veritrans/GoPay-Checkout-SDK"
+  },
+  "tristanhimmelman/HidingNavigationBar": {
+    "url": "https://github.com/tristanhimmelman/HidingNavigationBar"
+  },
+  "gsdios/SDCycleScrollView": {
+    "url": "https://github.com/gsdios/SDCycleScrollView"
+  },
+  "JoanKing/JKSwiftExtension": {
+    "url": "https://github.com/JoanKing/JKSwiftExtension"
+  },
+  "maxsokolov/TableKit": {
+    "url": "https://github.com/maxsokolov/TableKit"
+  },
+  "pili-engineering/PLPlayerKit": {
+    "url": "https://github.com/pili-engineering/PLPlayerKit"
+  },
+  "mercari/QRScanner": {
+    "url": "https://github.com/mercari/QRScanner"
+  },
+  "SmileZXLee/ZXAgreementLabel": {
+    "url": "https://github.com/SmileZXLee/ZXAgreementLabel"
+  },
+  "agilebits/onepassword-app-extension": {
+    "url": "https://github.com/agilebits/onepassword-app-extension"
+  },
+  "tduyduc/lol-vs-bots-assist": {
+    "url": "https://github.com/tduyduc/lol-vs-bots-assist"
+  },
+  "Lysozyme/garena-lol-english": {
+    "url": "https://github.com/Lysozyme/garena-lol-english"
+  },
+  "ChiliLabs/CHIOTPField": {
+    "url": "https://github.com/ChiliLabs/CHIOTPField"
+  },
+  "kingslay/KSPlayer": {
+    "url": "https://github.com/kingslay/KSPlayer"
+  },
+  "KusakabeShi/free365": {
+    "url": "https://github.com/KusakabeShi/free365"
+  },
+  "amirdew/CollectionViewPagingLayout": {
+    "url": "https://github.com/amirdew/CollectionViewPagingLayout"
+  },
+  "wwdc/2021": {
+    "url": "https://github.com/wwdc/2021"
+  },
+  "yulingtianxia/YXYDashLayer": {
+    "url": "https://github.com/yulingtianxia/YXYDashLayer"
+  },
+  "majd/ipatool": {
+    "url": "https://github.com/majd/ipatool"
+  },
+  "igorkulman/iOSLocalizationEditor": {
+    "url": "https://github.com/igorkulman/iOSLocalizationEditor"
+  },
+  "Istered/RxPhotos": {
+    "url": "https://github.com/Istered/RxPhotos"
+  },
+  "Rogue24/JPImageresizerView": {
+    "url": "https://github.com/Rogue24/JPImageresizerView"
+  },
+  "DerLobi/XcoatOfPaint": {
+    "url": "https://github.com/DerLobi/XcoatOfPaint"
+  },
+  "yysskk/SwipeMenuViewController": {
+    "url": "https://github.com/yysskk/SwipeMenuViewController"
+  },
+  "EweEweUWU/Ensoulsharp": {
+    "url": "https://github.com/EweEweUWU/Ensoulsharp"
+  },
+  "Ji4n1ng/OpenInTerminal": {
+    "url": "https://github.com/Ji4n1ng/OpenInTerminal"
+  },
+  "ruslanskorb/RSKGrowingTextView": {
+    "url": "https://github.com/ruslanskorb/RSKGrowingTextView"
+  },
+  "kishikawakatsumi/KeychainAccess": {
+    "url": "https://github.com/kishikawakatsumi/KeychainAccess"
+  },
+  "RxSwiftCommunity/RxWebKit": {
+    "url": "https://github.com/RxSwiftCommunity/RxWebKit"
+  },
+  "miao-lang/miao-lang": {
+    "url": "https://github.com/miao-lang/miao-lang"
+  },
+  "della-padula/Elliotable": {
+    "url": "https://github.com/della-padula/Elliotable"
+  },
+  "yannickl/QRCodeReader.swift": {
+    "url": "https://github.com/yannickl/QRCodeReader.swift"
+  },
+  "SpriteOvO/Telegram-Anti-Revoke": {
+    "url": "https://github.com/SpriteOvO/Telegram-Anti-Revoke"
+  },
+  "softhausHQ/CircleBar": {
+    "url": "https://github.com/softhausHQ/CircleBar"
+  },
+  "Baw-Appie/PullOver-Pro-APAppView": {
+    "url": "https://github.com/Baw-Appie/PullOver-Pro-APAppView"
+  },
+  "glushchenko/fsnotes": {
+    "url": "https://github.com/glushchenko/fsnotes"
+  },
+  "Felipefury/8-Ball-Pool-Guide-Line": {
+    "url": "https://github.com/Felipefury/8-Ball-Pool-Guide-Line"
+  },
+  "brendonjkding/NoPassAfterRespring": {
+    "url": "https://github.com/brendonjkding/NoPassAfterRespring"
+  },
+  "EamonTracey/iPatch": {
+    "url": "https://github.com/EamonTracey/iPatch"
+  },
+  "evgenyneu/Cosmos": {
+    "url": "https://github.com/evgenyneu/Cosmos"
+  },
+  "hyperoslo/BarcodeScanner": {
+    "url": "https://github.com/hyperoslo/BarcodeScanner"
+  },
+  "HamzaGhazouani/HGPlaceholders": {
+    "url": "https://github.com/HamzaGhazouani/HGPlaceholders"
+  },
+  "LoSenTrad/LSTPopView": {
+    "url": "https://github.com/LoSenTrad/LSTPopView"
+  },
+  "dhruvikdhanani/SmoothTabBar": {
+    "url": "https://github.com/dhruvikdhanani/SmoothTabBar"
+  },
+  "mixmoe/HibiAPI": {
+    "url": "https://github.com/mixmoe/HibiAPI"
+  },
+  "WenchaoD/FSPagerView": {
+    "url": "https://github.com/WenchaoD/FSPagerView"
+  },
+  "jpush/jchat-swift": {
+    "url": "https://github.com/jpush/jchat-swift"
+  },
+  "frida/frida": {
+    "url": "https://github.com/frida/frida"
+  },
+  "XcodesOrg/XcodesApp": {
+    "url": "https://github.com/XcodesOrg/XcodesApp"
+  },
+  "0x-matt/xcdd_workflow": {
+    "url": "https://github.com/0x-matt/xcdd_workflow"
+  },
+  "zakaziko99/agnosterzak-ohmyzsh-theme": {
+    "url": "https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme"
+  },
+  "wensonsmith/YoudaoTranslator": {
+    "url": "https://github.com/wensonsmith/YoudaoTranslator"
+  },
+  "MagicTimerFW/MagicTimer": {
+    "url": "https://github.com/MagicTimerFW/MagicTimer"
+  },
+  "vinhnx/Clendar": {
+    "url": "https://github.com/vinhnx/Clendar"
+  },
+  "HuChundong/PerfectTimeXS": {
+    "url": "https://github.com/HuChundong/PerfectTimeXS"
+  },
+  "changsanjiang/SJVideoPlayer": {
+    "url": "https://github.com/changsanjiang/SJVideoPlayer"
+  },
+  "QuintGao/GKPageScrollView": {
+    "url": "https://github.com/QuintGao/GKPageScrollView"
+  },
+  "onmyway133/IconGenerator": {
+    "url": "https://github.com/onmyway133/IconGenerator"
+  },
+  "LacertosusRepo/Open-Source-Tweaks": {
+    "url": "https://github.com/LacertosusRepo/Open-Source-Tweaks"
+  },
+  "tomaszpoliszuk/DatePickerWheels": {
+    "url": "https://github.com/tomaszpoliszuk/DatePickerWheels"
+  },
+  "haoict/libhdev-public": {
+    "url": "https://github.com/haoict/libhdev-public"
+  },
+  "yeahdongcn/RSBarcodes_Swift": {
+    "url": "https://github.com/yeahdongcn/RSBarcodes_Swift"
+  },
+  "n3d1117/CrackBot2": {
+    "url": "https://github.com/n3d1117/CrackBot2"
+  },
+  "vanwijkdave/QuitAll": {
+    "url": "https://github.com/vanwijkdave/QuitAll"
+  },
+  "renzifeng/ZFPlayer": {
+    "url": "https://github.com/renzifeng/ZFPlayer"
+  },
+  "dcloudio/uni-app": {
+    "url": "https://github.com/dcloudio/uni-app"
+  },
+  "DKJone/DKWechatHelper": {
+    "url": "https://github.com/DKJone/DKWechatHelper"
+  },
+  "posva/catimg": {
+    "url": "https://github.com/posva/catimg"
+  },
+  "xralphack/Stackoverflow-Likes": {
+    "url": "https://github.com/xralphack/Stackoverflow-Likes"
+  },
+  "mukeshthawani/TriLabelView": {
+    "url": "https://github.com/mukeshthawani/TriLabelView"
+  },
+  "pwn20wndstuff/Undecimus": {
+    "url": "https://github.com/pwn20wndstuff/Undecimus"
+  },
+  "coinpaprika/coinpaprika-api-swift-client": {
+    "url": "https://github.com/coinpaprika/coinpaprika-api-swift-client"
+  },
+  "onevcat/Rainbow": {
+    "url": "https://github.com/onevcat/Rainbow"
+  },
+  "appwoodpecker/woodpecker-ios": {
+    "url": "https://github.com/appwoodpecker/woodpecker-ios"
+  },
+  "niyongsheng/EasyRelease": {
+    "url": "https://github.com/niyongsheng/EasyRelease"
+  },
+  "neilsardesai/Mouse-Finder": {
+    "url": "https://github.com/neilsardesai/Mouse-Finder"
+  },
+  "loryhuz/CleanyModal": {
+    "url": "https://github.com/loryhuz/CleanyModal"
+  },
+  "RicherYang/RY-WooCommerce-Tools": {
+    "url": "https://github.com/RicherYang/RY-WooCommerce-Tools"
+  },
+  "peripheryapp/periphery": {
+    "url": "https://github.com/peripheryapp/periphery"
+  },
+  "Yalantis/DisplaySwitcher": {
+    "url": "https://github.com/Yalantis/DisplaySwitcher"
+  },
+  "valentinjahanmanesh/loady": {
+    "url": "https://github.com/valentinjahanmanesh/loady"
+  },
+  "rockbruno/swiftshield": {
+    "url": "https://github.com/rockbruno/swiftshield"
+  },
+  "maxep/MXSegmentedPager": {
+    "url": "https://github.com/maxep/MXSegmentedPager"
+  },
+  "Instagram/IGListKit": {
+    "url": "https://github.com/Instagram/IGListKit"
+  },
+  "Jiar/SegementSlide": {
+    "url": "https://github.com/Jiar/SegementSlide"
+  },
+  "QuintGao/GKNavigationBar": {
+    "url": "https://github.com/QuintGao/GKNavigationBar"
+  },
+  "AppPear/ChartView": {
+    "url": "https://github.com/AppPear/ChartView"
+  },
+  "zimfw/zimfw": {
+    "url": "https://github.com/zimfw/zimfw"
+  },
+  "kishikawakatsumi/AppStore-Clone-CollectionViewCompositionalLayouts": {
+    "url": "https://github.com/kishikawakatsumi/AppStore-Clone-CollectionViewCompositionalLayouts"
+  },
+  "LorenzoPane/browserdefault": {
+    "url": "https://github.com/LorenzoPane/browserdefault"
+  },
+  "kciter/Floaty": {
+    "url": "https://github.com/kciter/Floaty"
+  },
+  "ChiliLabs/CHIPageControl": {
+    "url": "https://github.com/ChiliLabs/CHIPageControl"
+  },
+  "ivanvorobei/SPLarkController": {
+    "url": "https://github.com/ivanvorobei/SPLarkController"
+  },
+  "cjsliuj/SResigner": {
+    "url": "https://github.com/cjsliuj/SResigner"
+  },
+  "EFPrefix/EFCountingLabel": {
+    "url": "https://github.com/EFPrefix/EFCountingLabel"
+  },
+  "Abedalkareem/LanguageManager-iOS-Lokalise": {
+    "url": "https://github.com/Abedalkareem/LanguageManager-iOS-Lokalise"
+  },
+  "Pircate/EachNavigationBar": {
+    "url": "https://github.com/Pircate/EachNavigationBar"
+  },
+  "godaddy-wordpress/woocommerce-product-sku-generator": {
+    "url": "https://github.com/godaddy-wordpress/woocommerce-product-sku-generator"
+  },
+  "mxcl/PromiseKit": {
+    "url": "https://github.com/mxcl/PromiseKit"
+  },
+  "GantMan/jail-monkey": {
+    "url": "https://github.com/GantMan/jail-monkey"
+  },
+  "zudvpn/ZudVPN": {
+    "url": "https://github.com/zudvpn/ZudVPN"
+  },
+  "crossroadlabs/Regex": {
+    "url": "https://github.com/crossroadlabs/Regex"
+  },
+  "0x0XDev/JamWiFi": {
+    "url": "https://github.com/0x0XDev/JamWiFi"
+  },
+  "bitgapp/eqMac": {
+    "url": "https://github.com/bitgapp/eqMac"
+  },
+  "haxzie/instagram-live-streamer": {
+    "url": "https://github.com/haxzie/instagram-live-streamer"
+  },
+  "IvanMathy/Boop": {
+    "url": "https://github.com/IvanMathy/Boop"
+  },
+  "alexfromapex/camera-viewer": {
+    "url": "https://github.com/alexfromapex/camera-viewer"
+  },
+  "xuan32546/LOL-X-Assistant": {
+    "url": "https://github.com/xuan32546/LOL-X-Assistant"
+  },
+  "xuan32546/IOS13-SimulateTouch": {
+    "url": "https://github.com/xuan32546/IOS13-SimulateTouch"
+  },
+  "yangKJ/KJCategories": {
+    "url": "https://github.com/yangKJ/KJCategories"
+  },
+  "HeathWang/HWPanModal": {
+    "url": "https://github.com/HeathWang/HWPanModal"
+  },
+  "levithomason/cmatrix": {
+    "url": "https://github.com/levithomason/cmatrix"
+  },
+  "sarunw/SWSegmentedControl": {
+    "url": "https://github.com/sarunw/SWSegmentedControl"
+  },
+  "cillyfly/MXScroll": {
+    "url": "https://github.com/cillyfly/MXScroll"
+  },
+  "Minitour/AZTabBarController": {
+    "url": "https://github.com/Minitour/AZTabBarController"
+  },
+  "gao-sun/eul": {
+    "url": "https://github.com/gao-sun/eul"
+  },
+  "macmade/KeychainCracker": {
+    "url": "https://github.com/macmade/KeychainCracker"
+  },
+  "vsouza/awesome-ios": {
+    "url": "https://github.com/vsouza/awesome-ios"
+  },
+  "behrad-kzm/BEKCurveTabbar": {
+    "url": "https://github.com/behrad-kzm/BEKCurveTabbar"
+  },
+  "keygx/GradientCircularProgress": {
+    "url": "https://github.com/keygx/GradientCircularProgress"
+  },
+  "IrelDev/XcodeCleaner": {
+    "url": "https://github.com/IrelDev/XcodeCleaner"
+  },
+  "younatics/MediaBrowser": {
+    "url": "https://github.com/younatics/MediaBrowser"
+  },
+  "zenangst/Versions": {
+    "url": "https://github.com/zenangst/Versions"
+  },
+  "JunsW/SKSearchController": {
+    "url": "https://github.com/JunsW/SKSearchController"
+  },
+  "willowtreeapps/Hyperion-iOS": {
+    "url": "https://github.com/willowtreeapps/Hyperion-iOS"
+  },
+  "tinymind/LSUnusedResources": {
+    "url": "https://github.com/tinymind/LSUnusedResources"
+  },
+  "Nirma/UIDeviceComplete": {
+    "url": "https://github.com/Nirma/UIDeviceComplete"
+  },
+  "InderKumarRathore/DeviceGuru": {
+    "url": "https://github.com/InderKumarRathore/DeviceGuru"
+  },
+  "exelban/stats": {
+    "url": "https://github.com/exelban/stats"
+  },
+  "even-cheng/ECSigner": {
+    "url": "https://github.com/even-cheng/ECSigner"
+  },
+  "SteveBarnegren/TweenKit": {
+    "url": "https://github.com/SteveBarnegren/TweenKit"
+  },
+  "gontovnik/DGRunkeeperSwitch": {
+    "url": "https://github.com/gontovnik/DGRunkeeperSwitch"
+  },
+  "pujiaxin33/JXCategoryView": {
+    "url": "https://github.com/pujiaxin33/JXCategoryView"
+  },
+  "pglombardo/PasswordPusher": {
+    "url": "https://github.com/pglombardo/PasswordPusher"
+  },
+  "TimOliver/TOPasscodeViewController": {
+    "url": "https://github.com/TimOliver/TOPasscodeViewController"
+  },
+  "SmileZXLee/OpenDingTalkHelperForiOS": {
+    "url": "https://github.com/SmileZXLee/OpenDingTalkHelperForiOS"
+  },
+  "JackZhouCn/JZLocationConverter-Swift": {
+    "url": "https://github.com/JackZhouCn/JZLocationConverter-Swift"
+  },
+  "daprice/iOS-Tactile-Slider": {
+    "url": "https://github.com/daprice/iOS-Tactile-Slider"
+  },
+  "KelvinJin/AnimatedCollectionViewLayout": {
+    "url": "https://github.com/KelvinJin/AnimatedCollectionViewLayout"
+  },
+  "LeoNatan/LNPopupController": {
+    "url": "https://github.com/LeoNatan/LNPopupController"
+  },
+  "JonyFang/FFPopup": {
+    "url": "https://github.com/JonyFang/FFPopup"
+  },
+  "MengTo/Spring": {
+    "url": "https://github.com/MengTo/Spring"
+  },
+  "liwq87112/WQSuspendView": {
+    "url": "https://github.com/liwq87112/WQSuspendView"
+  },
+  "okhanokbay/ExpyTableView": {
+    "url": "https://github.com/okhanokbay/ExpyTableView"
+  },
+  "mono0926/LicensePlist": {
+    "url": "https://github.com/mono0926/LicensePlist"
+  },
+  "younatics/ExpandableCell": {
+    "url": "https://github.com/younatics/ExpandableCell"
+  },
+  "madebybowtie/FlagKit": {
+    "url": "https://github.com/madebybowtie/FlagKit"
+  },
+  "levantAJ/PaddingLabel": {
+    "url": "https://github.com/levantAJ/PaddingLabel"
+  },
+  "TakeScoop/SwiftyButton": {
+    "url": "https://github.com/TakeScoop/SwiftyButton"
+  },
+  "iina/iina": {
+    "url": "https://github.com/iina/iina"
+  },
+  "YvanLiu/PushTransitionDemo": {
+    "url": "https://github.com/YvanLiu/PushTransitionDemo"
+  },
+  "appssemble/appstore-card-transition": {
+    "url": "https://github.com/appssemble/appstore-card-transition"
+  },
+  "PaoloCuscela/Cards": {
+    "url": "https://github.com/PaoloCuscela/Cards"
+  },
+  "MilanistaDev/NewLargeTitleSample": {
+    "url": "https://github.com/MilanistaDev/NewLargeTitleSample"
+  },
+  "mcxtzhang/SwipeDelMenuLayout": {
+    "url": "https://github.com/mcxtzhang/SwipeDelMenuLayout"
+  },
+  "AloneMonkey/MonkeyDev": {
+    "url": "https://github.com/AloneMonkey/MonkeyDev"
+  },
+  "lechium/iOS14Headers": {
+    "url": "https://github.com/lechium/iOS14Headers"
+  },
+  "PassLock-App/SKSLyricsLabel": {
+    "url": "https://github.com/PassLock-App/SKSLyricsLabel"
+  },
+  "hemangshah/printer": {
+    "url": "https://github.com/hemangshah/printer"
+  },
+  "mwaterfall/MWPhotoBrowser": {
+    "url": "https://github.com/mwaterfall/MWPhotoBrowser"
+  },
+  "svenstaro/genact": {
+    "url": "https://github.com/svenstaro/genact"
+  },
+  "kaweerutk/CommonKeyboard": {
+    "url": "https://github.com/kaweerutk/CommonKeyboard"
+  },
+  "chavyleung/scripts": {
+    "url": "https://github.com/chavyleung/scripts"
+  },
+  "noodlewerk/NWPusher": {
+    "url": "https://github.com/noodlewerk/NWPusher"
+  },
+  "Banck/CollectionKit": {
+    "url": "https://github.com/Banck/CollectionKit"
+  },
+  "skydoves/TransformationLayout": {
+    "url": "https://github.com/skydoves/TransformationLayout"
+  },
+  "flutter/flutter": {
+    "url": "https://github.com/flutter/flutter"
+  },
+  "iodefog/VipVideo": {
+    "url": "https://github.com/iodefog/VipVideo"
+  },
+  "CoderTitan/WebSocketDemo": {
+    "url": "https://github.com/CoderTitan/WebSocketDemo"
+  },
+  "ezescaruli/ESTabBarController": {
+    "url": "https://github.com/ezescaruli/ESTabBarController"
+  },
+  "antiguab/BATabBarController": {
+    "url": "https://github.com/antiguab/BATabBarController"
+  },
+  "CRAnimation/CRBoxInputView": {
+    "url": "https://github.com/CRAnimation/CRBoxInputView"
+  },
+  "onevcat/Kingfisher": {
+    "url": "https://github.com/onevcat/Kingfisher"
+  },
+  "remoboard/Remoboard": {
+    "url": "https://github.com/remoboard/Remoboard"
+  },
+  "Danie1s/Tiercel": {
+    "url": "https://github.com/Danie1s/Tiercel"
+  },
+  "evgenyneu/keychain-swift": {
+    "url": "https://github.com/evgenyneu/keychain-swift"
+  },
+  "onmyway133/awesome-ios-animation": {
+    "url": "https://github.com/onmyway133/awesome-ios-animation"
+  },
+  "dillidon/alerts-and-pickers": {
+    "url": "https://github.com/dillidon/alerts-and-pickers"
+  },
+  "Skyscanner/SkyFloatingLabelTextField": {
+    "url": "https://github.com/Skyscanner/SkyFloatingLabelTextField"
+  },
+  "andresinaka/SwiftCop": {
+    "url": "https://github.com/andresinaka/SwiftCop"
+  },
+  "MoZhouqi/KMNavigationBarTransition": {
+    "url": "https://github.com/MoZhouqi/KMNavigationBarTransition"
+  },
+  "prasmussen/gdrive": {
+    "url": "https://github.com/prasmussen/gdrive"
+  },
+  "circulosmeos/gdown.pl": {
+    "url": "https://github.com/circulosmeos/gdown.pl"
+  },
+  "pujiaxin33/JXSegmentedView": {
+    "url": "https://github.com/pujiaxin33/JXSegmentedView"
+  },
+  "TBXark/PinterestSegment": {
+    "url": "https://github.com/TBXark/PinterestSegment"
+  },
+  "pcjbird/fbCharm": {
+    "url": "https://github.com/pcjbird/fbCharm"
+  },
+  "Kitura/Kitura": {
+    "url": "https://github.com/Kitura/Kitura"
+  },
+  "JAVClub/core": {
+    "url": "https://github.com/JAVClub/core"
+  },
+  "jeantimex/ios-swift-collapsible-table-section": {
+    "url": "https://github.com/jeantimex/ios-swift-collapsible-table-section"
+  },
+  "Tencent/MLeaksFinder": {
+    "url": "https://github.com/Tencent/MLeaksFinder"
+  },
+  "TalkingData/YourView": {
+    "url": "https://github.com/TalkingData/YourView"
+  },
+  "didi/DoKit": {
+    "url": "https://github.com/didi/DoKit"
+  },
+  "msalah1193/TTabBarViewController": {
+    "url": "https://github.com/msalah1193/TTabBarViewController"
+  },
+  "didi/echo": {
+    "url": "https://github.com/didi/echo"
+  },
+  "lixiang1994/LEEAlert": {
+    "url": "https://github.com/lixiang1994/LEEAlert"
+  },
+  "Ahmed-Ali/JSONExport": {
+    "url": "https://github.com/Ahmed-Ali/JSONExport"
+  },
+  "OpenDiablo2/OpenDiablo2": {
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2"
+  },
+  "Swinject/Swinject": {
+    "url": "https://github.com/Swinject/Swinject"
+  },
+  "blizzhackers/kolbot": {
+    "url": "https://github.com/blizzhackers/kolbot"
+  },
+  "kolton/d2bot-with-kolbot": {
+    "url": "https://github.com/kolton/d2bot-with-kolbot"
+  },
+  "vashpan/xcode-dev-cleaner": {
+    "url": "https://github.com/vashpan/xcode-dev-cleaner"
+  },
+  "blizzhackers/documentation": {
+    "url": "https://github.com/blizzhackers/documentation"
+  },
+  "laurent22/joplin": {
+    "url": "https://github.com/laurent22/joplin"
+  },
+  "exyte/Grid": {
+    "url": "https://github.com/exyte/Grid"
+  },
+  "Tencent/wcdb": {
+    "url": "https://github.com/Tencent/wcdb"
+  },
+  "michaeleisel/zld": {
+    "url": "https://github.com/michaeleisel/zld"
+  },
+  "libimobiledevice/libimobiledevice": {
+    "url": "https://github.com/libimobiledevice/libimobiledevice"
+  },
+  "sunshinejr/SwiftyUserDefaults": {
+    "url": "https://github.com/sunshinejr/SwiftyUserDefaults"
+  },
+  "patchthecode/JTAppleCalendar": {
+    "url": "https://github.com/patchthecode/JTAppleCalendar"
+  },
+  "siam-biswas/Storage": {
+    "url": "https://github.com/siam-biswas/Storage"
+  },
+  "ChartsOrg/Charts": {
+    "url": "https://github.com/ChartsOrg/Charts"
+  },
+  "pointfreeco/swift-composable-architecture": {
+    "url": "https://github.com/pointfreeco/swift-composable-architecture"
+  },
+  "hackmdio/codimd": {
+    "url": "https://github.com/hackmdio/codimd"
+  },
+  "supermamon/Reposi3": {
+    "url": "https://github.com/supermamon/Reposi3"
+  },
+  "acmesh-official/acme.sh": {
+    "url": "https://github.com/acmesh-official/acme.sh"
+  },
+  "belozierov/SwiftCoroutine": {
+    "url": "https://github.com/belozierov/SwiftCoroutine"
+  },
+  "JeffResc/SongShare": {
+    "url": "https://github.com/JeffResc/SongShare"
+  },
+  "kf99916/ProgressWebViewController": {
+    "url": "https://github.com/kf99916/ProgressWebViewController"
+  },
+  "OpenCombine/OpenCombine": {
+    "url": "https://github.com/OpenCombine/OpenCombine"
+  },
+  "Caldis/Mos": {
+    "url": "https://github.com/Caldis/Mos"
+  },
+  "iamakid/KidInputAccessoryView": {
+    "url": "https://github.com/iamakid/KidInputAccessoryView"
+  },
+  "alexkim205/G-Desktop-Suite": {
+    "url": "https://github.com/alexkim205/G-Desktop-Suite"
+  },
+  "Straas/Straas-iOS-sdk": {
+    "url": "https://github.com/Straas/Straas-iOS-sdk"
+  },
+  "monang1611/InstagramLive-PHP": {
+    "url": "https://github.com/monang1611/InstagramLive-PHP"
+  },
+  "zProAle/InstaLive-PHP": {
+    "url": "https://github.com/zProAle/InstaLive-PHP"
+  },
+  "jeantimex/CollapsibleTableSectionViewController": {
+    "url": "https://github.com/jeantimex/CollapsibleTableSectionViewController"
+  },
+  "alibaba/youku-sdk-tool-woodpecker": {
+    "url": "https://github.com/alibaba/youku-sdk-tool-woodpecker"
+  },
+  "Hellsing/LeagueSharp": {
+    "url": "https://github.com/Hellsing/LeagueSharp"
+  },
+  "tungvoduc/DTPhotoViewerController": {
+    "url": "https://github.com/tungvoduc/DTPhotoViewerController"
+  },
+  "melvitax/DateHelper": {
+    "url": "https://github.com/melvitax/DateHelper"
+  },
+  "realm/jazzy": {
+    "url": "https://github.com/realm/jazzy"
+  },
+  "MessageKit/MessageKit": {
+    "url": "https://github.com/MessageKit/MessageKit"
+  },
+  "hwdsl2/docker-ipsec-vpn-server": {
+    "url": "https://github.com/hwdsl2/docker-ipsec-vpn-server"
+  },
+  "gaomd/docker-ikev2-vpn-server": {
+    "url": "https://github.com/gaomd/docker-ikev2-vpn-server"
+  },
+  "coolnameismy/BabyBluetooth": {
+    "url": "https://github.com/coolnameismy/BabyBluetooth"
+  },
+  "glenyi/FloatRatingView": {
+    "url": "https://github.com/glenyi/FloatRatingView"
+  },
+  "cyrildiagne/ar-cutpaste": {
+    "url": "https://github.com/cyrildiagne/ar-cutpaste"
+  },
+  "lemon4ex/Reveal2Loader": {
+    "url": "https://github.com/lemon4ex/Reveal2Loader"
+  },
+  "wxxsw/SwiftTheme": {
+    "url": "https://github.com/wxxsw/SwiftTheme"
+  },
+  "imDazui/Tvlist-awesome-m3u-m3u8": {
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8"
+  },
+  "QMUI/LookinServer": {
+    "url": "https://github.com/QMUI/LookinServer"
+  },
+  "johnno1962/InjectionIII": {
+    "url": "https://github.com/johnno1962/InjectionIII"
+  },
+  "PassLock-App/MarsTree": {
+    "url": "https://github.com/PassLock-App/MarsTree"
+  },
+  "ruiaureliano/X-SwiftFormat": {
+    "url": "https://github.com/ruiaureliano/X-SwiftFormat"
+  },
+  "KonradIT/GoProStream": {
+    "url": "https://github.com/KonradIT/GoProStream"
+  },
+  "maxep/MXParallaxHeader": {
+    "url": "https://github.com/maxep/MXParallaxHeader"
+  },
+  "Bgihe/TableViewHeaderTest": {
+    "url": "https://github.com/Bgihe/TableViewHeaderTest"
+  },
+  "aunnnn/AppStoreiOS11InteractiveTransition": {
+    "url": "https://github.com/aunnnn/AppStoreiOS11InteractiveTransition"
+  },
+  "vitaliy-paliy/Messenger": {
+    "url": "https://github.com/vitaliy-paliy/Messenger"
+  },
+  "applogistdev/ALBusSeatView": {
+    "url": "https://github.com/applogistdev/ALBusSeatView"
+  },
+  "saifhunk/TwitterAnimation": {
+    "url": "https://github.com/saifhunk/TwitterAnimation"
+  },
+  "jeantimex/ios-swift-collapsible-table-section-in-grouped-section": {
+    "url": "https://github.com/jeantimex/ios-swift-collapsible-table-section-in-grouped-section"
+  },
+  "kokoabim/iOSOpenDev": {
+    "url": "https://github.com/kokoabim/iOSOpenDev"
+  },
+  "haoict/messenger-no-ads": {
+    "url": "https://github.com/haoict/messenger-no-ads"
+  },
+  "Molunerfinn/PicGo": {
+    "url": "https://github.com/Molunerfinn/PicGo"
+  },
+  "c1d3rdev/ChatHeads-Extensions": {
+    "url": "https://github.com/c1d3rdev/ChatHeads-Extensions"
+  },
+  "magicblack/maccms10": {
+    "url": "https://github.com/magicblack/maccms10"
+  },
+  "skx/markdownshare": {
+    "url": "https://github.com/skx/markdownshare"
+  },
+  "woshiccm/Pecker": {
+    "url": "https://github.com/woshiccm/Pecker"
+  },
+  "mxcl/Cake": {
+    "url": "https://github.com/mxcl/Cake"
+  },
+  "KKBOX/kkbox-ios-dev": {
+    "url": "https://github.com/KKBOX/kkbox-ios-dev"
+  },
+  "Q-Mobile/QGrid": {
+    "url": "https://github.com/Q-Mobile/QGrid"
+  },
+  "alexejn/TypeYouCard": {
+    "url": "https://github.com/alexejn/TypeYouCard"
+  },
+  "cbpowell/MarqueeLabel": {
+    "url": "https://github.com/cbpowell/MarqueeLabel"
+  },
+  "xmartlabs/XLPagerTabStrip": {
+    "url": "https://github.com/xmartlabs/XLPagerTabStrip"
+  },
+  "utmapp/UTM": {
+    "url": "https://github.com/utmapp/UTM"
+  },
+  "CSSEGISandData/COVID-19": {
+    "url": "https://github.com/CSSEGISandData/COVID-19"
+  },
+  "mhdhejazi/CoronaTracker": {
+    "url": "https://github.com/mhdhejazi/CoronaTracker"
+  },
+  "SoySauceLab/CollectionKit": {
+    "url": "https://github.com/SoySauceLab/CollectionKit"
+  },
+  "creantan/LookinLoader": {
+    "url": "https://github.com/creantan/LookinLoader"
+  },
+  "twostraws/ControlRoom": {
+    "url": "https://github.com/twostraws/ControlRoom"
+  },
+  "AdguardTeam/AdGuardHome": {
+    "url": "https://github.com/AdguardTeam/AdGuardHome"
+  },
+  "chenjie1219/cartool": {
+    "url": "https://github.com/chenjie1219/cartool"
+  },
+  "vvkeep/JSONConverter": {
+    "url": "https://github.com/vvkeep/JSONConverter"
+  },
+  "instacart/TrueTime.swift": {
+    "url": "https://github.com/instacart/TrueTime.swift"
+  },
+  "bannzai/SpreadsheetView": {
+    "url": "https://github.com/bannzai/SpreadsheetView"
+  },
+  "fastred/Optimizing-Swift-Build-Times": {
+    "url": "https://github.com/fastred/Optimizing-Swift-Build-Times"
+  },
+  "yongtaovip/AppIconMaker": {
+    "url": "https://github.com/yongtaovip/AppIconMaker"
+  },
+  "PDIS/mask-static": {
+    "url": "https://github.com/PDIS/mask-static"
+  },
+  "Rightpoint/BonMot": {
+    "url": "https://github.com/Rightpoint/BonMot"
+  },
+  "lkzhao/YetAnotherAnimationLibrary": {
+    "url": "https://github.com/lkzhao/YetAnotherAnimationLibrary"
+  },
+  "axi0mX/ipwndfu": {
+    "url": "https://github.com/axi0mX/ipwndfu"
+  },
+  "stepmania/stepmania": {
+    "url": "https://github.com/stepmania/stepmania"
+  },
+  "v5tech/awesome-ios-animation": {
+    "url": "https://github.com/v5tech/awesome-ios-animation"
+  },
+  "xmartlabs/Eureka": {
+    "url": "https://github.com/xmartlabs/Eureka"
+  },
+  "jinShine/RxSwift-CleanArchitecture-Template": {
+    "url": "https://github.com/jinShine/RxSwift-CleanArchitecture-Template"
+  },
+  "cteamx/Thief": {
+    "url": "https://github.com/cteamx/Thief"
+  },
+  "Boxzhi/HZNavigationBar": {
+    "url": "https://github.com/Boxzhi/HZNavigationBar"
+  },
+  "lkzhao/UIComponent": {
+    "url": "https://github.com/lkzhao/UIComponent"
+  },
+  "seemoo-lab/opendrop": {
+    "url": "https://github.com/seemoo-lab/opendrop"
+  },
+  "Nicejinux/NXDrawKit": {
+    "url": "https://github.com/Nicejinux/NXDrawKit"
+  },
+  "SwiftOldDriver/iOS-Weekly": {
+    "url": "https://github.com/SwiftOldDriver/iOS-Weekly"
+  },
+  "sergdort/CleanArchitectureRxSwift": {
+    "url": "https://github.com/sergdort/CleanArchitectureRxSwift"
+  },
+  "shaojiankui/iOS-UDID-Safari": {
+    "url": "https://github.com/shaojiankui/iOS-UDID-Safari"
+  },
+  "huri000/SwiftEntryKit": {
+    "url": "https://github.com/huri000/SwiftEntryKit"
+  },
+  "Naituw/IPAPatch": {
+    "url": "https://github.com/Naituw/IPAPatch"
+  },
+  "windstormeye/iOS-Course": {
+    "url": "https://github.com/windstormeye/iOS-Course"
+  },
+  "darkreader/darkreader": {
+    "url": "https://github.com/darkreader/darkreader"
+  },
+  "SimpleBoilerplates/SwiftUI-Cheat-Sheet": {
+    "url": "https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet"
+  },
+  "loyinglin/LearnOpenGLES": {
+    "url": "https://github.com/loyinglin/LearnOpenGLES"
+  },
+  "Jintin/Swimat": {
+    "url": "https://github.com/Jintin/Swimat"
+  },
+  "Juanpe/SkeletonView": {
+    "url": "https://github.com/Juanpe/SkeletonView"
+  },
+  "xaoxuu/hexo-theme-resume": {
+    "url": "https://github.com/xaoxuu/hexo-theme-resume"
+  },
+  "MTGSDK/MintegralAdSDK-iOS": {
+    "url": "https://github.com/MTGSDK/MintegralAdSDK-iOS"
+  },
+  "prinsss/hexo-hide-posts": {
+    "url": "https://github.com/prinsss/hexo-hide-posts"
+  },
+  "zhlynn/zsign": {
+    "url": "https://github.com/zhlynn/zsign"
+  },
+  "Tencent/QMUI_iOS": {
+    "url": "https://github.com/Tencent/QMUI_iOS"
+  },
+  "JerryLMJ/LMJVerticalScrollText": {
+    "url": "https://github.com/JerryLMJ/LMJVerticalScrollText"
+  },
+  "alskipp/ASValueTrackingSlider": {
+    "url": "https://github.com/alskipp/ASValueTrackingSlider"
+  },
+  "FLEXTool/FLEX": {
+    "url": "https://github.com/FLEXTool/FLEX"
+  },
+  "chenhongch/ScrollChatView": {
+    "url": "https://github.com/chenhongch/ScrollChatView"
+  },
+  "kapps-inc/RxKickstarterViewModelTemplate": {
+    "url": "https://github.com/kapps-inc/RxKickstarterViewModelTemplate"
+  },
+  "CainLuo/RxKickstarterViewModelTemplate": {
+    "url": "https://github.com/CainLuo/RxKickstarterViewModelTemplate"
+  },
+  "kickstarter/ios-oss": {
+    "url": "https://github.com/kickstarter/ios-oss"
+  },
+  "artemnovichkov/SwiftUI-by-Examples": {
+    "url": "https://github.com/artemnovichkov/SwiftUI-by-Examples"
+  },
+  "mattga/MGCollapsingHeader": {
+    "url": "https://github.com/mattga/MGCollapsingHeader"
+  },
+  "Urinx/iOSAppHook": {
+    "url": "https://github.com/Urinx/iOSAppHook"
+  },
+  "leandromperez/specleaks": {
+    "url": "https://github.com/leandromperez/specleaks"
+  },
+  "romansorochak/ParallaxHeader": {
+    "url": "https://github.com/romansorochak/ParallaxHeader"
+  },
+  "RichardBronosky/ota-tools": {
+    "url": "https://github.com/RichardBronosky/ota-tools"
+  },
+  "maximbilan/SwiftGoogleTranslate": {
+    "url": "https://github.com/maximbilan/SwiftGoogleTranslate"
+  },
+  "JeaSungLEE/JercyProjectMaster": {
+    "url": "https://github.com/JeaSungLEE/JercyProjectMaster"
+  },
+  "ghostwolf90/LearnProject": {
+    "url": "https://github.com/ghostwolf90/LearnProject"
+  },
+  "netyouli/WHC_ConfuseSoftware": {
+    "url": "https://github.com/netyouli/WHC_ConfuseSoftware"
+  },
+  "daipeihust/DPScrollNumberLabel": {
+    "url": "https://github.com/daipeihust/DPScrollNumberLabel"
+  },
+  "daipeihust/git-tips": {
+    "url": "https://github.com/daipeihust/git-tips"
+  },
+  "thomasrzhao/TRZNumberScrollView": {
+    "url": "https://github.com/thomasrzhao/TRZNumberScrollView"
+  },
+  "sncf-connect-tech/Collor": {
+    "url": "https://github.com/sncf-connect-tech/Collor"
+  },
+  "CrazyBalls/ggconfuse": {
+    "url": "https://github.com/CrazyBalls/ggconfuse"
+  },
+  "fatedier/frp": {
+    "url": "https://github.com/fatedier/frp"
+  },
+  "oneyian/SpamCode": {
+    "url": "https://github.com/oneyian/SpamCode"
+  },
+  "klaus01/KLGenerateSpamCode": {
+    "url": "https://github.com/klaus01/KLGenerateSpamCode"
   }
 }
